@@ -2,6 +2,7 @@ import type { WordUpdateAction } from '../InputHandler'
 import InputHandler from '../InputHandler'
 import Letter from './Letter'
 import Notation from './Notation'
+import RubyLetter from './RubyLetter'
 import { TipAlert } from './TipAlert'
 import style from './index.module.css'
 import { initialWordState } from './type'
@@ -24,12 +25,151 @@ import {
 import type { Word } from '@/typings'
 import { CTRL, getUtcStringForMixpanel, useMixPanelWordLogUploader } from '@/utils'
 import { useSaveWordRecord } from '@/utils/db'
+import { getRomajiLength, isKana, getKanaRomaji } from '@/utils/kanaRomaji'
 import { useAtomValue } from 'jotai'
 import { useCallback, useContext, useEffect, useRef, useState } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
 import { useImmer } from 'use-immer'
 
 const vowelLetters = ['A', 'E', 'I', 'O', 'U']
+
+type ParsedNotation = {
+  kanji: string
+  furigana: string
+  romajiStart: number
+  romajiLength: number
+  romajiParts: string[]
+}[]
+
+// 判断是否是拗音的辅助函数
+const isYouon = (current: string, next?: string) => {
+  if (!next) return false
+  // 检查下一个字符是否是小写的 や、ゆ、よ、ぁ、ぃ、ぅ、ぇ、ぉ
+  return next.match(/[ゃゅょぁぃぅぇぉャュョァィゥェォ]/)
+}
+
+const parseNotation = (notation: string, romaji: string): ParsedNotation => {
+  const result: ParsedNotation = []
+  let currentPosition = 0
+
+  // 将注音部分分割成数组
+  const parts =
+    notation.includes('(') || notation.includes('（')
+      ? notation.split(/([()（）])/).filter((part) => part !== '(' && part !== ')' && part !== '（' && part !== '）')
+      : [notation]
+
+  // 处理每个部分
+  for (let i = 0; i < parts.length; i += 2) {
+    const text = parts[i]
+    const furigana = parts[i + 1] || ''
+
+    if (!text) continue
+
+    if (isKana(text)) {
+      // 如果是假名，需要处理拗音的情况
+      const chars = text.split('')
+      for (let j = 0; j < chars.length; j++) {
+        const char = chars[j]
+        const nextChar = chars[j + 1]
+
+        if (isYouon(char, nextChar)) {
+          // 如果是拗音组合，一起处理
+          const combination = char + nextChar
+          const kanaRomaji = getKanaRomaji(combination)
+          // 从当前位置开始，在完整的罗马字中查找这个片段
+          const romajiPart = romaji.slice(currentPosition)
+          const romajiLength = kanaRomaji.length
+          result.push({
+            kanji: combination,
+            furigana: '', // 假名不需要注音
+            romajiStart: currentPosition,
+            romajiLength,
+            romajiParts: [kanaRomaji],
+          })
+          currentPosition += romajiLength
+          j++ // 跳过下一个字符，因为已经处理过了
+        } else if (!isYouon(chars[j - 1], char)) {
+          // 如果不是拗音的一部分，单独处理
+          const kanaRomaji = getKanaRomaji(char)
+          const romajiLength = kanaRomaji.length
+          result.push({
+            kanji: char,
+            furigana: '', // 假名不需要注音
+            romajiStart: currentPosition,
+            romajiLength,
+            romajiParts: [kanaRomaji],
+          })
+          currentPosition += romajiLength
+        }
+      }
+    } else if (furigana) {
+      // 修改这部分代码来处理注音中的拗音
+      const chars = furigana.split('')
+      let j = 0
+      let totalRomajiLength = 0
+      let processedFurigana = ''
+      let romajiParts: string[] = []
+
+      // 首先计算完整的罗马字长度并处理拗音组合
+      while (j < chars.length) {
+        const char = chars[j]
+        const nextChar = chars[j + 1]
+
+        if (isYouon(char, nextChar)) {
+          const combination = char + nextChar
+          const kanaRomaji = getKanaRomaji(combination)
+          totalRomajiLength += kanaRomaji.length
+          processedFurigana += combination
+          romajiParts.push(kanaRomaji)
+          j += 2
+        } else {
+          const kanaRomaji = getKanaRomaji(char)
+          totalRomajiLength += kanaRomaji.length
+          processedFurigana += char
+          romajiParts.push(kanaRomaji)
+          j++
+        }
+      }
+
+      // 将整个注音作为一个整体添加到结果中，但保留每个音节的罗马字长度信息
+      result.push({
+        kanji: text,
+        furigana: processedFurigana,
+        romajiStart: currentPosition,
+        romajiLength: totalRomajiLength,
+        romajiParts,
+      })
+      currentPosition += totalRomajiLength
+    } else {
+      // 处理其他字符（如标点符号等）
+      text.split('').forEach((char) => {
+        if (isKana(char)) {
+          const kanaRomaji = getKanaRomaji(char)
+          const romajiLength = kanaRomaji.length
+          result.push({
+            kanji: char,
+            furigana: char,
+            romajiStart: currentPosition,
+            romajiLength,
+            romajiParts: [kanaRomaji],
+          })
+          currentPosition += romajiLength
+        } else {
+          result.push({
+            kanji: char,
+            furigana: char,
+            romajiStart: currentPosition,
+            romajiLength: 1,
+            romajiParts: [],
+          })
+          currentPosition += 1
+        }
+      })
+    }
+  }
+
+  return result
+}
 
 export default function WordComponent({ word, onFinish }: { word: Word; onFinish: () => void }) {
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
@@ -280,6 +420,8 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
     }
   }, [wordState.wrongCount, dispatch])
 
+  const parsedNotation = word.notation ? parseNotation(word.notation, word.name) : null
+
   return (
     <>
       <InputHandler updateInput={updateInput} />
@@ -287,21 +429,72 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
         lang={currentLanguageCategory !== 'code' ? currentLanguageCategory : 'en'}
         className="flex flex-col items-center justify-center pb-1 pt-4"
       >
-        {['romaji', 'hapin'].includes(currentLanguage) && word.notation && <Notation notation={word.notation} />}
         <div
           className={`tooltip-info relative w-fit bg-transparent p-0 leading-normal shadow-none dark:bg-transparent ${
             wordDictationConfig.isOpen ? 'tooltip' : ''
           }`}
           data-tip="按 Tab 快捷键显示完整单词"
         >
+          {['hapin'].includes(currentLanguage) && word.notation && <Notation notation={word.notation} />}
           <div
             onMouseEnter={() => handleHoverWord(true)}
             onMouseLeave={() => handleHoverWord(false)}
             className={`flex items-center ${isTextSelectable && 'select-all'} justify-center ${wordState.hasWrong ? style.wrong : ''}`}
           >
-            {wordState.displayWord.split('').map((t, index) => {
-              return <Letter key={`${index}-${t}`} letter={t} visible={getLetterVisible(index)} state={wordState.letterStates[index]} />
-            })}
+            {console.log(parsedNotation)}
+            {parsedNotation
+              ? parsedNotation.map((part, index) => {
+                  // 检查这个片段的所有字母是否都正确
+                  const currentLetterStates = wordState.letterStates.slice(part.romajiStart, part.romajiStart + part.romajiLength)
+
+                  // 只有当前位置之前的字母状态才应该被考虑
+                  const currentPosition = wordState.inputWord.length
+                  const isCurrentPartActive = currentPosition > part.romajiStart
+                  const isCurrentPartComplete = currentPosition >= part.romajiStart + part.romajiLength
+
+                  // 判断当前部分的字母是否都正确
+                  const allLettersCorrect =
+                    isCurrentPartComplete && currentLetterStates.length > 0 && currentLetterStates.every((state) => state === 'correct')
+
+                  // 可见性判断：
+                  // 1. 如果默写模式关闭，直接显示
+                  // 2. 如果默写模式开启：
+                  //    - 所有字母都输入正确了，或者
+                  //    - 用户在悬停查看答案
+                  const isVisible = !wordDictationConfig.isOpen || allLettersCorrect || (isShowAnswerOnHover && isHoveringWord)
+
+                  // console.log(`=== RubyLetter ${index} ===`, {
+                  //   kanji: part.kanji,
+                  //   furigana: part.furigana,
+                  //   romajiLength: part.romajiLength,
+                  //   currentRomajiIndex: Math.max(0, currentPosition - part.romajiStart),
+                  //   letterStates: currentLetterStates,
+                  //   visible: isVisible,
+                  //   allLettersCorrect,
+                  //   inputWordLength: currentPosition,
+                  //   romajiStart: part.romajiStart,
+                  //   isCurrentPartActive,
+                  //   isCurrentPartComplete,
+                  //   isDictationMode: wordDictationConfig.isOpen
+                  // });
+
+                  return (
+                    <RubyLetter
+                      key={index}
+                      kanji={part.kanji}
+                      furigana={part.furigana}
+                      romajiLength={part.romajiLength}
+                      currentRomajiIndex={Math.max(0, currentPosition - part.romajiStart)}
+                      letterStates={currentLetterStates}
+                      visible={isVisible}
+                    />
+                  )
+                })
+              : wordState.displayWord
+                  .split('')
+                  .map((t, index) => (
+                    <Letter key={`${index}-${t}`} letter={t} visible={getLetterVisible(index)} state={wordState.letterStates[index]} />
+                  ))}
           </div>
           {pronunciationIsOpen && (
             <div className="absolute -right-12 top-1/2 h-9 w-9 -translate-y-1/2 transform ">
