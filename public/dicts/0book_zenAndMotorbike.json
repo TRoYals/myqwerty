@@ -1,0 +1,1064 @@
+[
+    {
+        "name": "tappet",
+        "trans": [
+            "n. 挺杆（机械术语，指发动机零件）"
+        ]
+    },
+    {
+        "name": "pitted",
+        "trans": [
+            "adj. 有坑的，腐蚀的"
+        ]
+    },
+    {
+        "name": "peg",
+        "trans": [
+            "n. 栓，钉（此处指摩托车脚踏板）"
+        ]
+    },
+    {
+        "name": "altitude",
+        "trans": [
+            "n. 海拔高度"
+        ]
+    },
+    {
+        "name": "jets",
+        "trans": [
+            "n. 喷嘴（摩托车化油器部件）"
+        ]
+    },
+    {
+        "name": "clutteredly",
+        "trans": [
+            "adv. 杂乱地"
+        ]
+    },
+    {
+        "name": "wrench",
+        "trans": [
+            "n. 扳手"
+        ]
+    },
+    {
+        "name": "saddlebag",
+        "trans": [
+            "n. 鞍袋（摩托车上的储物袋）"
+        ]
+    },
+    {
+        "name": "bluffs",
+        "trans": [
+            "n. 悬崖，陡岸"
+        ]
+    },
+    {
+        "name": "irrigation",
+        "trans": [
+            "n. 灌溉"
+        ]
+    },
+    {
+        "name": "sagebrush",
+        "trans": [
+            "n. 蒿草（一种荒漠植物）"
+        ]
+    },
+    {
+        "name": "inductive",
+        "trans": [
+            "adj. 归纳的（逻辑术语）"
+        ]
+    },
+    {
+        "name": "deductive",
+        "trans": [
+            "adj. 演绎的（逻辑术语）"
+        ]
+    },
+    {
+        "name": "inference",
+        "trans": [
+            "n. 推论"
+        ]
+    },
+    {
+        "name": "formalized",
+        "trans": [
+            "adj. 形式化的"
+        ]
+    },
+    {
+        "name": "juggernaut",
+        "trans": [
+            "n. 巨型力量，不可阻挡之物"
+        ]
+    },
+    {
+        "name": "tedious",
+        "trans": [
+            "adj. 乏味的，冗长的"
+        ]
+    },
+    {
+        "name": "invincible",
+        "trans": [
+            "adj. 无敌的，不可战胜的"
+        ]
+    },
+    {
+        "name": "isolation",
+        "trans": [
+            "n. 隔离，孤立"
+        ]
+    },
+    {
+        "name": "hypotheses",
+        "trans": [
+            "n. 假设（复数形式）"
+        ]
+    },
+    {
+        "name": "rigidly",
+        "trans": [
+            "adv. 严格地，刚性地"
+        ]
+    },
+    {
+        "name": "edifice",
+        "trans": [
+            "n. 大厦，结构（比喻知识体系）"
+        ]
+    },
+    {
+        "name": "romanticizing",
+        "trans": [
+            "v. 浪漫化"
+        ]
+    },
+    {
+        "name": "demonstrations",
+        "trans": [
+            "n. 展示，示范（区别于实验）"
+        ]
+    },
+    {
+        "name": "grounded",
+        "trans": [
+            "adj. 接地的（电气术语）"
+        ]
+    },
+    {
+        "name": "taciturn",
+        "trans": [
+            "adj. 沉默寡言的"
+        ]
+    },
+    {
+        "name": "hierarchy",
+        "trans": [
+            "n. 层级，等级制度"
+        ]
+    },
+    {
+        "name": "cardboard",
+        "trans": [
+            "n. 硬纸板"
+        ]
+    },
+    {
+        "name": "anchovies",
+        "trans": [
+            "n. 凤尾鱼（一种小鱼）"
+        ]
+    },
+    {
+        "name": "somber",
+        "trans": [
+            "adj. 阴郁的，暗淡的"
+        ]
+    },
+    {
+        "name": "austere",
+        "trans": [
+            "adj. 简朴的，严峻的"
+        ]
+    },
+    {
+        "name": "mansions",
+        "trans": [
+            "n. 大宅，寓所（此处比喻）"
+        ]
+    },
+    {
+        "name": "utilitarian",
+        "trans": [
+            "adj. 功利主义的，实用的"
+        ]
+    },
+    {
+        "name": "creepers",
+        "trans": [
+            "n. 爬行植物（比喻依赖性事物）"
+        ]
+    },
+    {
+        "name": "tempered",
+        "trans": [
+            "adj. 调和的，温和的"
+        ]
+    },
+    {
+        "name": "contours",
+        "trans": [
+            "n. 轮廓，曲线"
+        ]
+    },
+    {
+        "name": "biochemistry",
+        "trans": [
+            "n. 生物化学"
+        ]
+    },
+    {
+        "name": "molecular",
+        "trans": [
+            "adj. 分子的"
+        ]
+    },
+    {
+        "name": "intuition",
+        "trans": [
+            "n. 直觉"
+        ]
+    },
+    {
+        "name": "sympathetic",
+        "trans": [
+            "adj. 同情的，共鸣的"
+        ]
+    },
+    {
+        "name": "nihilistic",
+        "trans": [
+            "adj. 虚无主义的"
+        ]
+    },
+    {
+        "name": "catastrophic",
+        "trans": [
+            "adj. 灾难性的"
+        ]
+    },
+    {
+        "name": "disproof",
+        "trans": [
+            "n. 反证，驳斥"
+        ]
+    },
+    {
+        "name": "temporal",
+        "trans": [
+            "adj. 暂时的，与时间相关的"
+        ]
+    },
+    {
+        "name": "quantitative",
+        "trans": [
+            "adj. 定量的"
+        ]
+    },
+    {
+        "name": "inverse",
+        "trans": [
+            "adj. 相反的，反向的"
+        ]
+    },
+    {
+        "name": "indeterminate",
+        "trans": [
+            "adj. 不确定的"
+        ]
+    },
+    {
+        "name": "multiplication",
+        "trans": [
+            "n. 成倍增加"
+        ]
+    },
+    {
+        "name": "chaos",
+        "trans": [
+            "n. 混乱"
+        ]
+    },
+    {
+        "name": "genetic",
+        "trans": [
+            "adj. 基因的，内在的（此处比喻）"
+        ]
+    },
+    {
+        "name": "renaissance",
+        "trans": [
+            "n. 文艺复兴"
+        ]
+    },
+    {
+        "name": "aesthetically",
+        "trans": [
+            "adv. 美学上地"
+        ]
+    },
+    {
+        "name": "alienated",
+        "trans": [
+            "adj. 疏远的"
+        ]
+    },
+    {
+        "name": "abstractions",
+        "trans": [
+            "n. 抽象概念"
+        ]
+    },
+    {
+        "name": "formidable",
+        "trans": [
+            "adj. 强大的，令人敬畏的"
+        ]
+    },
+    {
+        "name": "mandate",
+        "trans": [
+            "n. 命令，任务"
+        ]
+    },
+    {
+        "name": "expelled",
+        "trans": [
+            "v. 被开除"
+        ]
+    },
+    {
+        "name": "immaturity",
+        "trans": [
+            "n. 不成熟"
+        ]
+    },
+    {
+        "name": "fragrant",
+        "trans": [
+            "adj. 芳香的"
+        ]
+    },
+    {
+        "name": "perking",
+        "trans": [
+            "v. 沸腾声，冒泡声"
+        ]
+    },
+    {
+        "name": "mitered",
+        "trans": [
+            "adj. 斜接的（木工术语）"
+        ]
+    },
+    {
+        "name": "timberline",
+        "trans": [
+            "n. 林木线（高山上树木生长界限）"
+        ]
+    },
+    {
+        "name": "hairpin",
+        "trans": [
+            "n. 发夹弯（急转弯）"
+        ]
+    },
+    {
+        "name": "aspen",
+        "trans": [
+            "n. 白杨树"
+        ]
+    },
+    {
+        "name": "physiological",
+        "trans": [
+            "adj. 生理的"
+        ]
+    },
+    {
+        "name": "institutional",
+        "trans": [
+            "adj. 体制的，机构的"
+        ]
+    },
+    {
+        "name": "verities",
+        "trans": [
+            "n. 真理，真实性"
+        ]
+    },
+    {
+        "name": "lateral",
+        "trans": [
+            "adj. 侧面的，横向的"
+        ]
+    },
+    {
+        "name": "axioms",
+        "trans": [
+            "n. 公理，自明之理"
+        ]
+    },
+    {
+        "name": "postulates",
+        "trans": [
+            "n. 假设，前提"
+        ]
+    },
+    {
+        "name": "prow",
+        "trans": [
+            "n. 船首"
+        ]
+    },
+    {
+        "name": "radiantly",
+        "trans": [
+            "adv. 光芒四射地"
+        ]
+    },
+    {
+        "name": "ideographs",
+        "trans": [
+            "n. 表意文字（如汉字）"
+        ]
+    },
+    {
+        "name": "trampoline",
+        "trans": [
+            "n. 蹦床"
+        ]
+    },
+    {
+        "name": "compartment",
+        "trans": [
+            "n. 隔间"
+        ]
+    },
+    {
+        "name": "theoretic",
+        "trans": [
+            "adj. 理论的"
+        ]
+    },
+    {
+        "name": "esthetic",
+        "trans": [
+            "adj. 美学的（=aesthetic）"
+        ]
+    },
+    {
+        "name": "cognizance",
+        "trans": [
+            "n. 认知，了解"
+        ]
+    },
+    {
+        "name": "undifferentiated",
+        "trans": [
+            "adj. 未分化的"
+        ]
+    },
+    {
+        "name": "continuum",
+        "trans": [
+            "n. 连续体"
+        ]
+    },
+    {
+        "name": "shivering",
+        "trans": [
+            "v. 颤抖"
+        ]
+    },
+    {
+        "name": "switchback",
+        "trans": [
+            "n. 之字形道路"
+        ]
+    },
+    {
+        "name": "stunted",
+        "trans": [
+            "adj. 发育不良的"
+        ]
+    },
+    {
+        "name": "alpine",
+        "trans": [
+            "adj. 高山的"
+        ]
+    },
+    {
+        "name": "meadows",
+        "trans": [
+            "n. 草地"
+        ]
+    },
+    {
+        "name": "lichens",
+        "trans": [
+            "n. 地衣（植物）"
+        ]
+    },
+    {
+        "name": "carburetors",
+        "trans": [
+            "n. 化油器"
+        ]
+    },
+    {
+        "name": "backfires",
+        "trans": [
+            "v. 回火（引擎故障）"
+        ]
+    },
+    {
+        "name": "magnitude",
+        "trans": [
+            "n. 规模，重要性"
+        ]
+    },
+    {
+        "name": "hesitates",
+        "trans": [
+            "v. 犹豫"
+        ]
+    },
+    {
+        "name": "universality",
+        "trans": [
+            "n. 普遍性"
+        ]
+    },
+    {
+        "name": "debris",
+        "trans": [
+            "n. 碎片，废墟"
+        ]
+    },
+    {
+        "name": "dignity",
+        "trans": [
+            "n. 尊严"
+        ]
+    },
+    {
+        "name": "upward",
+        "trans": [
+            "adj. 向上的"
+        ]
+    },
+    {
+        "name": "dominating",
+        "trans": [
+            "adj. 主导的"
+        ]
+    },
+    {
+        "name": "notations",
+        "trans": [
+            "n. 笔记，注释"
+        ]
+    },
+    {
+        "name": "abominable",
+        "trans": [
+            "adj. 糟糕的，可恶的"
+        ]
+    },
+    {
+        "name": "prejudges",
+        "trans": [
+            "v. 预先判断"
+        ]
+    },
+    {
+        "name": "intrudes",
+        "trans": [
+            "v. 闯入，干扰"
+        ]
+    },
+    {
+        "name": "meticulous",
+        "trans": [
+            "adj. 细致的"
+        ]
+    },
+    {
+        "name": "empiricist",
+        "trans": [
+            "n. 经验主义者"
+        ]
+    },
+    {
+        "name": "substance",
+        "trans": [
+            "n. 实质，物质"
+        ]
+    },
+    {
+        "name": "causation",
+        "trans": [
+            "n. 因果关系"
+        ]
+    },
+    {
+        "name": "solipsism",
+        "trans": [
+            "n. 唯我论"
+        ]
+    },
+    {
+        "name": "a priori",
+        "trans": [
+            "adj. 先验的（哲学术语）"
+        ]
+    },
+    {
+        "name": "kaleidoscopic",
+        "trans": [
+            "adj. 万花筒般的"
+        ]
+    },
+    {
+        "name": "synthesis",
+        "trans": [
+            "n. 综合，合成"
+        ]
+    },
+    {
+        "name": "deforms",
+        "trans": [
+            "v. 变形"
+        ]
+    },
+    {
+        "name": "impasse",
+        "trans": [
+            "n. 僵局"
+        ]
+    },
+    {
+        "name": "transitory",
+        "trans": [
+            "adj. 短暂的"
+        ]
+    },
+    {
+        "name": "fatigue",
+        "trans": [
+            "n. 疲劳（此处指金属疲劳）"
+        ]
+    },
+    {
+        "name": "domains",
+        "trans": [
+            "n. 领域（此处指磁域）"
+        ]
+    },
+    {
+        "name": "oxide",
+        "trans": [
+            "n. 氧化物"
+        ]
+    },
+    {
+        "name": "inversion",
+        "trans": [
+            "n. 倒转，反转"
+        ]
+    },
+    {
+        "name": "metaphysics",
+        "trans": [
+            "n. 形而上学"
+        ]
+    },
+    {
+        "name": "pervasive",
+        "trans": [
+            "adj. 遍布的，渗透的"
+        ]
+    },
+    {
+        "name": "exuberance",
+        "trans": [
+            "n. 活力，热情"
+        ]
+    },
+    {
+        "name": "manicured",
+        "trans": [
+            "adj. 修剪整齐的"
+        ]
+    },
+    {
+        "name": "presumption",
+        "trans": [
+            "n. 假设，推测"
+        ]
+    },
+    {
+        "name": "specializations",
+        "trans": [
+            "n. 专业化"
+        ]
+    },
+    {
+        "name": "alienation",
+        "trans": [
+            "n. 疏远，异化"
+        ]
+    },
+    {
+        "name": "aggression",
+        "trans": [
+            "n. 侵略性，攻击性"
+        ]
+    },
+    {
+        "name": "subversive",
+        "trans": [
+            "adj. 颠覆性的"
+        ]
+    },
+    {
+        "name": "serene",
+        "trans": [
+            "adj. 宁静的"
+        ]
+    },
+    {
+        "name": "imposture",
+        "trans": [
+            "n. 冒充，伪装"
+        ]
+    },
+    {
+        "name": "veneer",
+        "trans": [
+            "n. 薄板，表面（此处指家具）"
+        ]
+    },
+    {
+        "name": "reglued",
+        "trans": [
+            "v. 重新粘合"
+        ]
+    },
+    {
+        "name": "enigmatic",
+        "trans": [
+            "adj. 神秘的，费解的"
+        ]
+    },
+    {
+        "name": "terrain",
+        "trans": [
+            "n. 地形，领域"
+        ]
+    },
+    {
+        "name": "concealing",
+        "trans": [
+            "v. 隐藏"
+        ]
+    },
+    {
+        "name": "intermittently",
+        "trans": [
+            "adv. 间歇性地"
+        ]
+    },
+    {
+        "name": "jiggle",
+        "trans": [
+            "v. 轻摇，抖动"
+        ]
+    },
+    {
+        "name": "cocksure",
+        "trans": [
+            "adj. 过于自信的"
+        ]
+    },
+    {
+        "name": "menace",
+        "trans": [
+            "n. 威胁"
+        ]
+    },
+    {
+        "name": "rangers",
+        "trans": [
+            "n. 护林员"
+        ]
+    },
+    {
+        "name": "doctrinal",
+        "trans": [
+            "adj. 教义的"
+        ]
+    },
+    {
+        "name": "verbalized",
+        "trans": [
+            "adj. 用语言表达的"
+        ]
+    },
+    {
+        "name": "enlightened",
+        "trans": [
+            "adj. 开悟的"
+        ]
+    },
+    {
+        "name": "dhyana",
+        "trans": [
+            "n. 禅定（梵语）"
+        ]
+    },
+    {
+        "name": "latent",
+        "trans": [
+            "adj. 潜在的"
+        ]
+    },
+    {
+        "name": "incongruities",
+        "trans": [
+            "n. 不一致，不协调"
+        ]
+    },
+    {
+        "name": "odd",
+        "trans": [
+            "adj. 奇怪的，临时的（此处指零工）"
+        ]
+    },
+    {
+        "name": "sage",
+        "trans": [
+            "n. 鼠尾草（植物）"
+        ]
+    },
+    {
+        "name": "twilight",
+        "trans": [
+            "n. 暮色，黄昏"
+        ]
+    },
+    {
+        "name": "boulders",
+        "trans": [
+            "n. 巨石"
+        ]
+    },
+    {
+        "name": "fragrance",
+        "trans": [
+            "n. 香气"
+        ]
+    },
+    {
+        "name": "drowsy",
+        "trans": [
+            "adj. 昏昏欲睡的"
+        ]
+    },
+    {
+        "name": "archeological",
+        "trans": [
+            "adj. 考古学的"
+        ]
+    },
+    {
+        "name": "coalescence",
+        "trans": [
+            "n. 融合，合并"
+        ]
+    },
+    {
+        "name": "haunted",
+        "trans": [
+            "adj. 闹鬼的，萦绕的"
+        ]
+    },
+    {
+        "name": "stage fright",
+        "trans": [
+            "n. 怯场"
+        ]
+    },
+    {
+        "name": "automaton",
+        "trans": [
+            "n. 机器人，自动装置"
+        ]
+    },
+    {
+        "name": "euphemistically",
+        "trans": [
+            "adv. 委婉地"
+        ]
+    },
+    {
+        "name": "outbreak",
+        "trans": [
+            "n. 爆发"
+        ]
+    },
+    {
+        "name": "prohibited",
+        "trans": [
+            "adj. 禁止的"
+        ]
+    },
+    {
+        "name": "accreditation",
+        "trans": [
+            "n. 认证，认可"
+        ]
+    },
+    {
+        "name": "vendetta",
+        "trans": [
+            "n. 世仇，报复"
+        ]
+    },
+    {
+        "name": "vocal",
+        "trans": [
+            "adj. 直言不讳的"
+        ]
+    },
+    {
+        "name": "partisan",
+        "trans": [
+            "n. 党派支持者"
+        ]
+    },
+    {
+        "name": "misconception",
+        "trans": [
+            "n. 误解"
+        ]
+    },
+    {
+        "name": "elaborated",
+        "trans": [
+            "adj. 详尽阐述的"
+        ]
+    },
+    {
+        "name": "desanctified",
+        "trans": [
+            "adj. 被世俗化的"
+        ]
+    },
+    {
+        "name": "piety",
+        "trans": [
+            "n. 虔诚"
+        ]
+    },
+    {
+        "name": "materialism",
+        "trans": [
+            "n. 物质主义"
+        ]
+    },
+    {
+        "name": "excommunication",
+        "trans": [
+            "n. 开除教籍"
+        ]
+    },
+    {
+        "name": "nonprofit",
+        "trans": [
+            "adj. 非营利的"
+        ]
+    },
+    {
+        "name": "regenerated",
+        "trans": [
+            "adj. 再生的"
+        ]
+    },
+    {
+        "name": "cleavage",
+        "trans": [
+            "n. 分裂，划分"
+        ]
+    },
+    {
+        "name": "imponderable",
+        "trans": [
+            "adj. 难以估量的"
+        ]
+    },
+    {
+        "name": "parishioners",
+        "trans": [
+            "n. 教区居民"
+        ]
+    },
+    {
+        "name": "trustees",
+        "trans": [
+            "n. 理事，受托人"
+        ]
+    },
+    {
+        "name": "subordinate",
+        "trans": [
+            "adj. 从属的"
+        ]
+    },
+    {
+        "name": "censured",
+        "trans": [
+            "v. 责难，谴责"
+        ]
+    },
+    {
+        "name": "begrudging",
+        "trans": [
+            "adj. 不情愿的"
+        ]
+    },
+    {
+        "name": "fanatic",
+        "trans": [
+            "adj. 狂热的"
+        ]
+    },
+    {
+        "name": "discrepancy",
+        "trans": [
+            "n. 差异，不一致"
+        ]
+    },
+    {
+        "name": "militancy",
+        "trans": [
+            "n. 好战性，激进"
+        ]
+    }
+]

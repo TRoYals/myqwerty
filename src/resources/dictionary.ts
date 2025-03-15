@@ -573,6 +573,17 @@ const chinaExam: DictionaryResource[] = [
 // 国际考试
 const internationalExam: DictionaryResource[] = [
   {
+    id: 'book-zenAndMotorbike',
+    name: 'book-zenAndMotorbike',
+    description: '禅和摩托车维修艺术',
+    category: '国际考试',
+    tags: ['TOEFKL'],
+    url: '/dicts/0book_zenAndMotorbike.json',
+    length: 1871,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'pet-2024',
     name: 'PET-2024',
     description: '剑桥英语 - 2024',
