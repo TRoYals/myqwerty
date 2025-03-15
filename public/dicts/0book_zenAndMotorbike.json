@@ -1,1064 +1,2522 @@
 [
     {
-        "name": "tappet",
+        "name": "Chautauqua",
         "trans": [
-            "n. 挺杆（机械术语，指发动机零件）"
-        ]
+            "n. 乔托夸（一种文化教育集会活动）"
+        ],
+        "usphone": "作者用来描述他在旅途中的哲学探讨，一种结合故事和教育的演讲形式",
+        "ukphone": "44"
     },
     {
-        "name": "pitted",
+        "name": "Phaedrus",
         "trans": [
-            "adj. 有坑的，腐蚀的"
-        ]
+            "n. 费德鲁斯（人名）"
+        ],
+        "usphone": "主角过去的自我，被电击疗法消灭的人格，代表纯粹理性的追求者",
+        "ukphone": "44"
     },
     {
-        "name": "peg",
+        "name": "claustrophobia",
         "trans": [
-            "n. 栓，钉（此处指摩托车脚踏板）"
-        ]
+            "n. 幽闭恐惧症"
+        ],
+        "usphone": "主角提到戴头盔时的不适感，暗示他对被限制的恐惧",
+        "ukphone": "46"
     },
     {
-        "name": "altitude",
+        "name": "molybdenum",
         "trans": [
-            "n. 海拔高度"
-        ]
+            "n. 钼"
+        ],
+        "usphone": "用于摩托车链条的润滑剂成分，具有极佳的渗透性和润滑性",
+        "ukphone": "48"
     },
     {
-        "name": "jets",
+        "name": "disulfide",
         "trans": [
-            "n. 喷嘴（摩托车化油器部件）"
-        ]
+            "n. 二硫化物"
+        ],
+        "usphone": "链条润滑剂中与钼结合的化合物，形成高效润滑膜",
+        "ukphone": "48"
     },
     {
-        "name": "clutteredly",
+        "name": "restitched",
         "trans": [
-            "adv. 杂乱地"
-        ]
+            "v. 重新缝合"
+        ],
+        "usphone": "描述主角修补旧手套的行为，象征对物品的情感依恋和实用主义",
+        "ukphone": "49"
     },
     {
-        "name": "wrench",
+        "name": "degenerate",
         "trans": [
-            "n. 扳手"
-        ]
+            "v. 退化，恶化"
+        ],
+        "usphone": "书中描述机器如何因维护不当而逐渐失去原有性能",
+        "ukphone": "50"
     },
     {
-        "name": "saddlebag",
+        "name": "deteriorate",
         "trans": [
-            "n. 鞍袋（摩托车上的储物袋）"
-        ]
+            "v. 恶化，变质"
+        ],
+        "usphone": "描述未经适当维护的摩托车性能下降过程，也暗指思想的衰退",
+        "ukphone": "50"
     },
     {
-        "name": "bluffs",
+        "name": "quonset",
         "trans": [
-            "n. 悬崖，陡岸"
-        ]
+            "n. 半圆形金属棚屋"
+        ],
+        "usphone": "小镇上存放农业机械的拱形金属建筑，代表实用主义",
+        "ukphone": "51"
     },
     {
-        "name": "irrigation",
+        "name": "shimmering",
         "trans": [
-            "n. 灌溉"
-        ]
+            "adj. 闪烁的，微微发光的"
+        ],
+        "usphone": "用来描述热气中远处建筑物的视觉效果，表现出沙漠中的热浪",
+        "ukphone": "53"
     },
     {
-        "name": "sagebrush",
+        "name": "viscosity",
         "trans": [
-            "n. 蒿草（一种荒漠植物）"
-        ]
+            "n. 粘度，粘性"
+        ],
+        "usphone": "书中讨论摩托车机油的物理特性，与机械维护相关的技术术语",
+        "ukphone": "53"
     },
     {
-        "name": "inductive",
+        "name": "clutter",
         "trans": [
-            "adj. 归纳的（逻辑术语）"
-        ]
+            "n. 杂乱，混乱"
+        ],
+        "usphone": "主角描述阀门噪音时使用的词，表示机械内部杂乱的声音",
+        "ukphone": "57"
     },
     {
-        "name": "deductive",
+        "name": "impasse",
         "trans": [
-            "adj. 演绎的（逻辑术语）"
-        ]
+            "n. 僵局，死路"
+        ],
+        "usphone": "书中描述主角与朋友之间因世界观不同而导致的交流障碍",
+        "ukphone": "59"
     },
     {
-        "name": "inference",
+        "name": "revelation",
         "trans": [
-            "n. 推论"
-        ]
+            "n. 揭示，启示"
+        ],
+        "usphone": "书中指通过关注小细节可能揭示出的更深层次真相",
+        "ukphone": "59"
     },
     {
-        "name": "formalized",
+        "name": "stamina",
         "trans": [
-            "adj. 形式化的"
-        ]
+            "n. 耐力，持久力"
+        ],
+        "usphone": "主角提到当地人面对恶劣环境的坚韧品质，也暗指旅行需要的心理素质",
+        "ukphone": "59"
     },
     {
-        "name": "juggernaut",
+        "name": "intrusion",
         "trans": [
-            "n. 巨型力量，不可阻挡之物"
-        ]
+            "n. 侵入，打扰"
+        ],
+        "usphone": "书中描述机械故障如何打破浪漫主义者的世界观，迫使他们面对现实",
+        "ukphone": "61"
     },
     {
-        "name": "tedious",
+        "name": "fractious",
         "trans": [
-            "adj. 乏味的，冗长的"
-        ]
+            "adj. 易怒的，好争吵的"
+        ],
+        "usphone": "描述克里斯疲惫时的情绪状态，显示旅途带来的压力",
+        "ukphone": "63"
     },
     {
-        "name": "invincible",
+        "name": "deadpan",
         "trans": [
-            "adj. 无敌的，不可战胜的"
-        ]
+            "adj. 面无表情的"
+        ],
+        "usphone": "描述主角在儿子情绪爆发时刻意保持的冷漠表情，避免冲突升级",
+        "ukphone": "64"
     },
     {
-        "name": "isolation",
+        "name": "intimation",
         "trans": [
-            "n. 隔离，孤立"
-        ]
+            "n. 暗示，提示"
+        ],
+        "usphone": "书中描述主角在朦胧中感知到费德鲁斯存在的微弱线索",
+        "ukphone": "69"
     },
     {
-        "name": "hypotheses",
+        "name": "disregard",
         "trans": [
-            "n. 假设（复数形式）"
-        ]
+            "v. 忽视，不理会"
+        ],
+        "usphone": "在书中表示完全不考虑某事，尤其是在处理同伴情绪时的态度",
+        "ukphone": "71"
     },
     {
-        "name": "rigidly",
+        "name": "dichotomy",
         "trans": [
-            "adv. 严格地，刚性地"
-        ]
+            "n. 二分法，对立"
+        ],
+        "usphone": "书中用来描述经典理性与浪漫直觉这两种世界观的对立",
+        "ukphone": "73"
     },
     {
-        "name": "edifice",
+        "name": "schematic",
         "trans": [
-            "n. 大厦，结构（比喻知识体系）"
-        ]
+            "n. 示意图，图解"
+        ],
+        "usphone": "书中提到的电子线路图，代表经典思维视角的符号化表达",
+        "ukphone": "73"
     },
     {
-        "name": "romanticizing",
+        "name": "esthetics",
         "trans": [
-            "v. 浪漫化"
-        ]
+            "n. 美学，审美观"
+        ],
+        "usphone": "书中讨论古典与浪漫两种不同的美学观念，一种强调秩序，一种重视感受",
+        "ukphone": "74"
     },
     {
-        "name": "demonstrations",
+        "name": "irrational",
         "trans": [
-            "n. 展示，示范（区别于实验）"
-        ]
+            "adj. 非理性的，不合理的"
+        ],
+        "usphone": "书中描述经典理性视角如何看待浪漫思维方式，认为其缺乏逻辑",
+        "ukphone": "74"
     },
     {
-        "name": "grounded",
+        "name": "substrate",
         "trans": [
-            "adj. 接地的（电气术语）"
-        ]
+            "n. 基础，底层"
+        ],
+        "usphone": "书中指事物的根本结构，在表象之下的本质形式",
+        "ukphone": "74"
     },
     {
-        "name": "taciturn",
+        "name": "dissident",
         "trans": [
-            "adj. 沉默寡言的"
-        ]
-    },
-    {
-        "name": "hierarchy",
-        "trans": [
-            "n. 层级，等级制度"
-        ]
-    },
-    {
-        "name": "cardboard",
-        "trans": [
-            "n. 硬纸板"
-        ]
-    },
-    {
-        "name": "anchovies",
-        "trans": [
-            "n. 凤尾鱼（一种小鱼）"
-        ]
-    },
-    {
-        "name": "somber",
-        "trans": [
-            "adj. 阴郁的，暗淡的"
-        ]
-    },
-    {
-        "name": "austere",
-        "trans": [
-            "adj. 简朴的，严峻的"
-        ]
-    },
-    {
-        "name": "mansions",
-        "trans": [
-            "n. 大宅，寓所（此处比喻）"
-        ]
-    },
-    {
-        "name": "utilitarian",
-        "trans": [
-            "adj. 功利主义的，实用的"
-        ]
-    },
-    {
-        "name": "creepers",
-        "trans": [
-            "n. 爬行植物（比喻依赖性事物）"
-        ]
-    },
-    {
-        "name": "tempered",
-        "trans": [
-            "adj. 调和的，温和的"
-        ]
-    },
-    {
-        "name": "contours",
-        "trans": [
-            "n. 轮廓，曲线"
-        ]
-    },
-    {
-        "name": "biochemistry",
-        "trans": [
-            "n. 生物化学"
-        ]
-    },
-    {
-        "name": "molecular",
-        "trans": [
-            "adj. 分子的"
-        ]
-    },
-    {
-        "name": "intuition",
-        "trans": [
-            "n. 直觉"
-        ]
-    },
-    {
-        "name": "sympathetic",
-        "trans": [
-            "adj. 同情的，共鸣的"
-        ]
-    },
-    {
-        "name": "nihilistic",
-        "trans": [
-            "adj. 虚无主义的"
-        ]
-    },
-    {
-        "name": "catastrophic",
-        "trans": [
-            "adj. 灾难性的"
-        ]
-    },
-    {
-        "name": "disproof",
-        "trans": [
-            "n. 反证，驳斥"
-        ]
-    },
-    {
-        "name": "temporal",
-        "trans": [
-            "adj. 暂时的，与时间相关的"
-        ]
-    },
-    {
-        "name": "quantitative",
-        "trans": [
-            "adj. 定量的"
-        ]
-    },
-    {
-        "name": "inverse",
-        "trans": [
-            "adj. 相反的，反向的"
-        ]
-    },
-    {
-        "name": "indeterminate",
-        "trans": [
-            "adj. 不确定的"
-        ]
-    },
-    {
-        "name": "multiplication",
-        "trans": [
-            "n. 成倍增加"
-        ]
-    },
-    {
-        "name": "chaos",
-        "trans": [
-            "n. 混乱"
-        ]
-    },
-    {
-        "name": "genetic",
-        "trans": [
-            "adj. 基因的，内在的（此处比喻）"
-        ]
-    },
-    {
-        "name": "renaissance",
-        "trans": [
-            "n. 文艺复兴"
-        ]
-    },
-    {
-        "name": "aesthetically",
-        "trans": [
-            "adv. 美学上地"
-        ]
+            "n. 持不同政见者，异议人士"
+        ],
+        "usphone": "暗指费德鲁斯的思想如何挑战主流科学和理性观点",
+        "ukphone": "75"
     },
     {
         "name": "alienated",
         "trans": [
-            "adj. 疏远的"
-        ]
+            "adj. 疏远的，离异的"
+        ],
+        "usphone": "描述经典文化与浪漫反文化之间的深刻隔阂和相互敌意",
+        "ukphone": "75"
     },
     {
-        "name": "abstractions",
+        "name": "analytic",
         "trans": [
-            "n. 抽象概念"
-        ]
+            "adj. 分析的，解析的"
+        ],
+        "usphone": "书中指经典思维方式，将事物分解为组成部分进行研究的方法",
+        "ukphone": "76"
     },
     {
-        "name": "formidable",
+        "name": "fabrication",
         "trans": [
-            "adj. 强大的，令人敬畏的"
-        ]
+            "n. 制造，虚构"
+        ],
+        "usphone": "书中讨论科技如何将材料转化为有用物品的过程",
+        "ukphone": "76"
     },
     {
-        "name": "mandate",
+        "name": "crankshaft",
         "trans": [
-            "n. 命令，任务"
-        ]
+            "n. 曲轴"
+        ],
+        "usphone": "将活塞的直线运动转换为旋转运动的引擎核心部件",
+        "ukphone": "76"
     },
     {
-        "name": "expelled",
+        "name": "oscillation",
         "trans": [
-            "v. 被开除"
-        ]
+            "n. 振动，波动"
+        ],
+        "usphone": "书中描述摩托车引擎部件的机械运动，也暗喻思想的波动",
+        "ukphone": "77"
     },
     {
-        "name": "immaturity",
+        "name": "rectifier",
         "trans": [
-            "n. 不成熟"
-        ]
+            "n. 整流器"
+        ],
+        "usphone": "摩托车点火系统的组件，将交流电转换为直流电的装置",
+        "ukphone": "77"
     },
     {
-        "name": "fragrant",
+        "name": "tappet",
         "trans": [
-            "adj. 芳香的"
-        ]
+            "n. 挺杆，推杆"
+        ],
+        "usphone": "摩托车引擎中的部件，传递凸轮运动至气门的机械装置",
+        "ukphone": "77"
     },
     {
-        "name": "perking",
+        "name": "camshaft",
         "trans": [
-            "v. 沸腾声，冒泡声"
-        ]
+            "n. 凸轮轴"
+        ],
+        "usphone": "控制引擎进排气门开闭时机的关键部件，反馈系统的一部分",
+        "ukphone": "77"
     },
     {
-        "name": "mitered",
+        "name": "mundane",
         "trans": [
-            "adj. 斜接的（木工术语）"
-        ]
+            "adj. 世俗的，平凡的"
+        ],
+        "usphone": "书中对比日常机械维修与深刻哲学思考之间的联系",
+        "ukphone": "78"
     },
     {
-        "name": "timberline",
+        "name": "scabbard",
         "trans": [
-            "n. 林木线（高山上树木生长界限）"
-        ]
+            "n. 刀鞘，剑鞘"
+        ],
+        "usphone": "象征性用词，描述思想工具的容器，与刀的比喻相关",
+        "ukphone": "79"
     },
     {
-        "name": "hairpin",
+        "name": "malady",
         "trans": [
-            "n. 发夹弯（急转弯）"
-        ]
+            "n. 疾病，弊病"
+        ],
+        "usphone": "书中比喻当代社会思想的病态，尤其是理性与情感的分裂",
+        "ukphone": "79"
     },
     {
-        "name": "aspen",
+        "name": "gully",
         "trans": [
-            "n. 白杨树"
-        ]
+            "n. 沟渠，冲沟"
+        ],
+        "usphone": "描述高原地区被雨水侵蚀形成的地貌特征，表现荒凉环境",
+        "ukphone": "81"
     },
     {
-        "name": "physiological",
+        "name": "resonance",
         "trans": [
-            "adj. 生理的"
-        ]
+            "n. 共鸣，共振"
+        ],
+        "usphone": "书中既指机械振动现象，也暗指思想之间的相互呼应",
+        "ukphone": "82"
     },
     {
-        "name": "institutional",
+        "name": "mutate",
         "trans": [
-            "adj. 体制的，机构的"
-        ]
+            "v. 变异，突变"
+        ],
+        "usphone": "书中描述意识如何选择并改变我们对周围世界的感知",
+        "ukphone": "82"
     },
     {
-        "name": "verities",
+        "name": "contemplation",
         "trans": [
-            "n. 真理，真实性"
-        ]
+            "n. 沉思，冥想"
+        ],
+        "usphone": "书中形容浪漫理解方式，直接感受事物整体而非分析细节",
+        "ukphone": "83"
     },
     {
-        "name": "lateral",
+        "name": "hierarchies",
         "trans": [
-            "adj. 侧面的，横向的"
-        ]
+            "n. 层级，等级制度"
+        ],
+        "usphone": "书中指经典思维方式组织知识的结构，将事物按类别和重要性排列",
+        "ukphone": "84"
     },
     {
-        "name": "axioms",
+        "name": "solitude",
         "trans": [
-            "n. 公理，自明之理"
-        ]
+            "n. 孤独，独处"
+        ],
+        "usphone": "描述费德鲁斯极度独立的性格特点，与常人保持距离",
+        "ukphone": "88"
     },
     {
-        "name": "postulates",
+        "name": "convergence",
         "trans": [
-            "n. 假设，前提"
-        ]
+            "n. 汇聚，集中"
+        ],
+        "usphone": "书中指记忆与现实场景的重叠，主角感受到与费德鲁斯的联系",
+        "ukphone": "91"
     },
     {
-        "name": "prow",
+        "name": "annihilation",
         "trans": [
-            "n. 船首"
-        ]
+            "n. 湮灭，彻底毁灭"
+        ],
+        "usphone": "书中指通过电击疗法完全消除费德鲁斯人格的医疗过程",
+        "ukphone": "91"
     },
     {
-        "name": "radiantly",
+        "name": "alternating",
         "trans": [
-            "adv. 光芒四射地"
-        ]
+            "adj. 交替的，交流的"
+        ],
+        "usphone": "描述用于电击疗法的电流类型，交流电通过大脑引起意识改变",
+        "ukphone": "91"
     },
     {
-        "name": "ideographs",
+        "name": "amperage",
         "trans": [
-            "n. 表意文字（如汉字）"
-        ]
+            "n. 电流强度"
+        ],
+        "usphone": "电击疗法中使用的电流量，用于消灭费德鲁斯人格",
+        "ukphone": "91"
     },
     {
-        "name": "trampoline",
+        "name": "technological",
         "trans": [
-            "n. 蹦床"
-        ]
+            "adj. 技术的，工艺的"
+        ],
+        "usphone": "书中描述现代社会过度依赖技术却同时排斥技术的矛盾心态",
+        "ukphone": "91"
     },
     {
-        "name": "compartment",
+        "name": "curbstone",
         "trans": [
-            "n. 隔间"
-        ]
+            "n. 路边石"
+        ],
+        "usphone": "路边的石头边缘，用于维修摩托车的地点",
+        "ukphone": "97"
     },
     {
-        "name": "theoretic",
+        "name": "laundromat",
         "trans": [
-            "adj. 理论的"
-        ]
+            "n. 自助洗衣店"
+        ],
+        "usphone": "自助洗衣设施，Sylvia去那里洗衣服",
+        "ukphone": "97"
     },
     {
-        "name": "esthetic",
+        "name": "duckbill",
         "trans": [
-            "adj. 美学的（=aesthetic）"
-        ]
+            "n. 鸭嘴状物"
+        ],
+        "usphone": "John想为头盔添加的装饰物",
+        "ukphone": "97"
     },
     {
-        "name": "cognizance",
+        "name": "overhaul",
         "trans": [
-            "n. 认知，了解"
-        ]
+            "n. 大修"
+        ],
+        "usphone": "摩托车发动机需要的全面检修",
+        "ukphone": "99"
     },
     {
-        "name": "undifferentiated",
+        "name": "hierarchy",
         "trans": [
-            "adj. 未分化的"
-        ]
+            "n. 等级制度，层次结构"
+        ],
+        "usphone": "知识的分层结构，如摩托车的组件和功能",
+        "ukphone": "100"
     },
     {
-        "name": "continuum",
+        "name": "containment",
         "trans": [
-            "n. 连续体"
-        ]
-    },
-    {
-        "name": "shivering",
-        "trans": [
-            "v. 颤抖"
-        ]
-    },
-    {
-        "name": "switchback",
-        "trans": [
-            "n. 之字形道路"
-        ]
-    },
-    {
-        "name": "stunted",
-        "trans": [
-            "adj. 发育不良的"
-        ]
-    },
-    {
-        "name": "alpine",
-        "trans": [
-            "adj. 高山的"
-        ]
-    },
-    {
-        "name": "meadows",
-        "trans": [
-            "n. 草地"
-        ]
-    },
-    {
-        "name": "lichens",
-        "trans": [
-            "n. 地衣（植物）"
-        ]
-    },
-    {
-        "name": "carburetors",
-        "trans": [
-            "n. 化油器"
-        ]
-    },
-    {
-        "name": "backfires",
-        "trans": [
-            "v. 回火（引擎故障）"
-        ]
-    },
-    {
-        "name": "magnitude",
-        "trans": [
-            "n. 规模，重要性"
-        ]
-    },
-    {
-        "name": "hesitates",
-        "trans": [
-            "v. 犹豫"
-        ]
-    },
-    {
-        "name": "universality",
-        "trans": [
-            "n. 普遍性"
-        ]
-    },
-    {
-        "name": "debris",
-        "trans": [
-            "n. 碎片，废墟"
-        ]
-    },
-    {
-        "name": "dignity",
-        "trans": [
-            "n. 尊严"
-        ]
-    },
-    {
-        "name": "upward",
-        "trans": [
-            "adj. 向上的"
-        ]
-    },
-    {
-        "name": "dominating",
-        "trans": [
-            "adj. 主导的"
-        ]
-    },
-    {
-        "name": "notations",
-        "trans": [
-            "n. 笔记，注释"
-        ]
-    },
-    {
-        "name": "abominable",
-        "trans": [
-            "adj. 糟糕的，可恶的"
-        ]
-    },
-    {
-        "name": "prejudges",
-        "trans": [
-            "v. 预先判断"
-        ]
-    },
-    {
-        "name": "intrudes",
-        "trans": [
-            "v. 闯入，干扰"
-        ]
-    },
-    {
-        "name": "meticulous",
-        "trans": [
-            "adj. 细致的"
-        ]
-    },
-    {
-        "name": "empiricist",
-        "trans": [
-            "n. 经验主义者"
-        ]
-    },
-    {
-        "name": "substance",
-        "trans": [
-            "n. 实质，物质"
-        ]
+            "n. 包含关系"
+        ],
+        "usphone": "思想结构中的层级包含形式",
+        "ukphone": "101"
     },
     {
         "name": "causation",
         "trans": [
             "n. 因果关系"
-        ]
+        ],
+        "usphone": "哲学和科学中的因果结构",
+        "ukphone": "101"
     },
     {
-        "name": "solipsism",
+        "name": "genus",
         "trans": [
-            "n. 唯我论"
-        ]
+            "n. 类，属"
+        ],
+        "usphone": "分类学中指更广泛的类别（相对于species物种）",
+        "ukphone": "101"
     },
     {
-        "name": "a priori",
+        "name": "formidable",
         "trans": [
-            "adj. 先验的（哲学术语）"
-        ]
+            "adj. 强大的，令人畏惧的"
+        ],
+        "usphone": "指改变系统困难的程度",
+        "ukphone": "102"
     },
     {
-        "name": "kaleidoscopic",
+        "name": "machining",
         "trans": [
-            "adj. 万花筒般的"
-        ]
+            "n. 机械加工"
+        ],
+        "usphone": "金属加工的过程，通过机器将金属塑形",
+        "ukphone": "102"
     },
     {
-        "name": "synthesis",
+        "name": "foundry",
         "trans": [
-            "n. 综合，合成"
-        ]
+            "n. 铸造厂"
+        ],
+        "usphone": "金属铸造的场所，代表基础工业加工",
+        "ukphone": "102"
     },
     {
-        "name": "deforms",
+        "name": "welding",
         "trans": [
-            "v. 变形"
-        ]
+            "n. 焊接"
+        ],
+        "usphone": "金属工艺，通过热量连接金属部件",
+        "ukphone": "102"
     },
     {
-        "name": "impasse",
+        "name": "methodical",
         "trans": [
-            "n. 僵局"
-        ]
+            "adj. 有条理的，有系统的"
+        ],
+        "usphone": "康德思考问题的方式，有系统且持续",
+        "ukphone": "102"
     },
     {
-        "name": "transitory",
+        "name": "induction",
         "trans": [
-            "adj. 短暂的"
-        ]
+            "n. 归纳法"
+        ],
+        "usphone": "从特殊观察到一般结论的逻辑推理方法",
+        "ukphone": "106"
     },
     {
-        "name": "fatigue",
+        "name": "deduction",
         "trans": [
-            "n. 疲劳（此处指金属疲劳）"
-        ]
+            "n. 演绎法"
+        ],
+        "usphone": "从一般知识推断特定结论的逻辑方法",
+        "ukphone": "106"
     },
     {
-        "name": "domains",
+        "name": "inference",
         "trans": [
-            "n. 领域（此处指磁域）"
-        ]
+            "n. 推论，推理"
+        ],
+        "usphone": "基于已知信息得出结论的思维过程",
+        "ukphone": "106"
     },
     {
-        "name": "oxide",
+        "name": "juggernaut",
         "trans": [
-            "n. 氧化物"
-        ]
+            "n. 强大的力量"
+        ],
+        "usphone": "作者比喻科学方法像不可阻挡的庞然大物",
+        "ukphone": "107"
+    },
+    {
+        "name": "tedious",
+        "trans": [
+            "adj. 冗长乏味的"
+        ],
+        "usphone": "描述科学方法繁琐但有效的特点",
+        "ukphone": "107"
+    },
+    {
+        "name": "invincible",
+        "trans": [
+            "adj. 不可战胜的"
+        ],
+        "usphone": "科学方法最终总能解决问题的特性",
+        "ukphone": "107"
+    },
+    {
+        "name": "busywork",
+        "trans": [
+            "n. 无意义的工作"
+        ],
+        "usphone": "学校实验记录本的填写常被视为的性质",
+        "ukphone": "108"
+    },
+    {
+        "name": "edifice",
+        "trans": [
+            "n. 大厦，体系"
+        ],
+        "usphone": "比喻完整的科学理论体系",
+        "ukphone": "108"
     },
     {
         "name": "inversion",
         "trans": [
-            "n. 倒转，反转"
-        ]
+            "n. 颠倒，倒置"
+        ],
+        "usphone": "哲学上的思想革命，颠倒原有概念",
+        "ukphone": "109"
     },
     {
-        "name": "metaphysics",
+        "name": "rational",
         "trans": [
-            "n. 形而上学"
-        ]
+            "adj. 理性的"
+        ],
+        "usphone": "基于逻辑和理性思维的，书的核心议题",
+        "ukphone": "116"
     },
     {
-        "name": "pervasive",
+        "name": "grasp",
         "trans": [
-            "adj. 遍布的，渗透的"
-        ]
+            "v. 抓住，理解"
+        ],
+        "usphone": "掌握、理解的动作，如理解质量的概念",
+        "ukphone": "174"
     },
     {
-        "name": "exuberance",
+        "name": "interlude",
         "trans": [
-            "n. 活力，热情"
-        ]
+            "n. 插曲，间奏"
+        ],
+        "usphone": "我和克里斯在校园散步的短暂经历",
+        "ukphone": "175"
     },
     {
-        "name": "manicured",
+        "name": "rhetoric",
         "trans": [
-            "adj. 修剪整齐的"
-        ]
+            "n. 修辞学，修辞术"
+        ],
+        "usphone": "他被聘来教授的学科，是三R中的第二个R",
+        "ukphone": "175"
+    },
+    {
+        "name": "peripatetic",
+        "trans": [
+            "adj. 漫步的，巡游的"
+        ],
+        "usphone": "Phaedrus以这种方式准备讲课，在街道上行走思考",
+        "ukphone": "175"
+    },
+    {
+        "name": "contemplative",
+        "trans": [
+            "adj. 沉思的"
+        ],
+        "usphone": "他凝视窗外山脉时的思考状态",
+        "ukphone": "177"
+    },
+    {
+        "name": "supersaturated",
+        "trans": [
+            "adj. 过饱和的"
+        ],
+        "usphone": "化学溶液中溶解物超过正常饱和点的状态，用作思想爆发的比喻",
+        "ukphone": "181"
+    },
+    {
+        "name": "premise",
+        "trans": [
+            "n. 前提，假设"
+        ],
+        "usphone": "修辞学教材的基本假设，即修辞应作为理性的分支教授",
+        "ukphone": "182"
+    },
+    {
+        "name": "prescriptive",
+        "trans": [
+            "adj. 规定的，指定的"
+        ],
+        "usphone": "强调正确拼写、标点和语法的修辞学教学方法",
+        "ukphone": "182"
+    },
+    {
+        "name": "itsy-bitsy",
+        "trans": [
+            "adj. 极小的，微不足道的"
+        ],
+        "usphone": "形容传统修辞学教学中那些琐碎的规则",
+        "ukphone": "183"
+    },
+    {
+        "name": "despondent",
+        "trans": [
+            "adj. 沮丧的，失望的"
+        ],
+        "usphone": "Phaedrus对自己无法教授他相信的东西感到的情绪",
+        "ukphone": "183"
+    },
+    {
+        "name": "allegory",
+        "trans": [
+            "n. 寓言，寓意"
+        ],
+        "usphone": "用物理山脉比喻每个灵魂与目标之间的精神高山",
+        "ukphone": "187"
+    },
+    {
+        "name": "hierarchic",
+        "trans": [
+            "adj. 等级的，层次的"
+        ],
+        "usphone": "Phaedrus为解释Quality建立的庞大的思想层级结构",
+        "ukphone": "188"
+    },
+    {
+        "name": "debris",
+        "trans": [
+            "n. 碎片，残骸"
+        ],
+        "usphone": "Phaedrus思想的残余片段，作者试图重建",
+        "ukphone": "189"
+    },
+    {
+        "name": "immunity",
+        "trans": [
+            "n. 免疫力，豁免权"
+        ],
+        "usphone": "作者对Phaedrus疾病的抵抗力，使他能研究这些想法",
+        "ukphone": "189"
+    },
+    {
+        "name": "amorphically",
+        "trans": [
+            "adv. 无定形地"
+        ],
+        "usphone": "作者记录Phaedrus思想片段的方式，不考虑形式",
+        "ukphone": "189"
+    },
+    {
+        "name": "disparagement",
+        "trans": [
+            "n. 贬低，轻视"
+        ],
+        "usphone": "他建议学生缩小写作主题时，避免这种态度",
+        "ukphone": "190"
+    },
+    {
+        "name": "drudge",
+        "trans": [
+            "n. 苦工，做苦工的人"
+        ],
+        "usphone": "描述那位戴眼镜女学生呆滞无创造力的眼神",
+        "ukphone": "191"
+    },
+    {
+        "name": "mimicry",
+        "trans": [
+            "n. 模仿，仿效"
+        ],
+        "usphone": "学生在写作中刻意模仿的行为，他认为这阻碍了创造力",
+        "ukphone": "192"
+    },
+    {
+        "name": "blockage",
+        "trans": [
+            "n. 阻塞，障碍"
+        ],
+        "usphone": "阻止学生原创写作的心理障碍，源于模仿他人",
+        "ukphone": "192"
+    },
+    {
+        "name": "compulsion",
+        "trans": [
+            "n. 强制，强迫"
+        ],
+        "usphone": "模仿似乎是一种外部的压力，小孩子没有这种倾向",
+        "ukphone": "192"
+    },
+    {
+        "name": "balky",
+        "trans": [
+            "adj. 倔强的，不服从的"
+        ],
+        "usphone": "硬币写作练习后，学生变得不那么抗拒和更感兴趣",
+        "ukphone": "192"
+    },
+    {
+        "name": "demonstrator",
+        "trans": [
+            "n. 示范者，演示者"
+        ],
+        "usphone": "他在课堂上实时创作的说服性写作样本",
+        "ukphone": "193"
+    },
+    {
+        "name": "emulation",
+        "trans": [
+            "n. 仿效，竞争"
+        ],
+        "usphone": "避免让学生模仿大师作品的教学方法",
+        "ukphone": "193"
+    },
+    {
+        "name": "hostility",
+        "trans": [
+            "n. 敌意，敌对"
+        ],
+        "usphone": "其他学生对取消成绩和学位建议的反应",
+        "ukphone": "193"
+    },
+    {
+        "name": "non-plussed",
+        "trans": [
+            "adj. 困惑的"
+        ],
+        "usphone": "学生对费德鲁斯的教学方法感到迷惑",
+        "ukphone": "194"
+    },
+    {
+        "name": "hypocrisy",
+        "trans": [
+            "n. 虚伪，伪善"
+        ],
+        "usphone": "学生为学位而非知识学习的普遍现象",
+        "ukphone": "195"
+    },
+    {
+        "name": "mule mentality",
+        "trans": [
+            "n. 骡子心态"
+        ],
+        "usphone": "没有鞭子就不会工作的奴隶式思维",
+        "ukphone": "196"
+    },
+    {
+        "name": "vocational",
+        "trans": [
+            "adj. 职业的"
+        ],
+        "usphone": "关注实用工作而非内在价值的观点",
+        "ukphone": "196"
+    },
+    {
+        "name": "Kafkaesque",
+        "trans": [
+            "adj. 卡夫卡式的"
+        ],
+        "usphone": "学生被要求做某事但不知道标准的荒谬困境",
+        "ukphone": "200"
+    },
+    {
+        "name": "vacuum",
+        "trans": [
+            "n. 真空，空白"
+        ],
+        "usphone": "撤销成绩后在学生心中产生的目标空白",
+        "ukphone": "200"
+    },
+    {
+        "name": "withholding",
+        "trans": [
+            "n. 保留，扣压"
+        ],
+        "usphone": "不发布成绩的教学实验方法",
+        "ukphone": "200"
+    },
+    {
+        "name": "equilibrium",
+        "trans": [
+            "n. 平衡，均衡"
+        ],
+        "usphone": "攀登山时保持疲惫与烦躁之间的平衡状态",
+        "ukphone": "203"
+    },
+    {
+        "name": "intellectually outrageous",
+        "trans": [
+            "adj. 理智上令人愤慨的"
+        ],
+        "usphone": "费德鲁斯的质量教学方法从逻辑上看是荒谬的",
+        "ukphone": "206"
+    },
+    {
+        "name": "tallied",
+        "trans": [
+            "v. 记录，计算"
+        ],
+        "usphone": "课堂上统计学生对作文质量排名的投票",
+        "ukphone": "206"
+    },
+    {
+        "name": "indoctrinating",
+        "trans": [
+            "v. 灌输，教化"
+        ],
+        "usphone": "费德鲁斯不再是教学而是在灌输自己的质量理论",
+        "ukphone": "207"
+    },
+    {
+        "name": "suspense",
+        "trans": [
+            "n. 悬念"
+        ],
+        "usphone": "质量的一个方面，保持读者的期待和好奇",
+        "ukphone": "207"
+    },
+    {
+        "name": "vividness",
+        "trans": [
+            "n. 生动，鲜明"
+        ],
+        "usphone": "质量的一个方面，使文章更加鲜活有力",
+        "ukphone": "207"
+    },
+    {
+        "name": "ego-climbing",
+        "trans": [
+            "n. 自我攀登"
+        ],
+        "usphone": "为证明自己而爬山，与无我攀登相对",
+        "ukphone": "210"
+    },
+    {
+        "name": "holiness",
+        "trans": [
+            "n. 神圣"
+        ],
+        "usphone": "山的神圣性使朝圣者能够超越身体极限",
+        "ukphone": "211"
+    },
+    {
+        "name": "pilgrimage",
+        "trans": [
+            "n. 朝圣之旅"
+        ],
+        "usphone": "费德鲁斯在印度未完成的前往凯拉斯山的旅程",
+        "ukphone": "211"
+    },
+    {
+        "name": "sloppiness",
+        "trans": [
+            "n. 草率，马虎"
+        ],
+        "usphone": "自我攀登者疲惫时的不稳步伐",
+        "ukphone": "211"
+    },
+    {
+        "name": "esthetician",
+        "trans": [
+            "n. 美学家"
+        ],
+        "usphone": "费德鲁斯激烈反对的学者类型，试图定义美的人",
+        "ukphone": "212"
+    },
+    {
+        "name": "putrescence",
+        "trans": [
+            "n. 腐烂，腐败"
+        ],
+        "usphone": "费德鲁斯形容美学家对质量的研究如同腐烂物",
+        "ukphone": "212"
+    },
+    {
+        "name": "disenfranchised",
+        "trans": [
+            "adj. 被剥夺权利的"
+        ],
+        "usphone": "美学领域因质量无法定义而失去了存在基础",
+        "ukphone": "212"
+    },
+    {
+        "name": "lateral",
+        "trans": [
+            "adj. 侧面的，横向的"
+        ],
+        "usphone": "描述他和克里斯之间的关系状态，平行移动而不是前进",
+        "ukphone": "220"
+    },
+    {
+        "name": "cleavage",
+        "trans": [
+            "n. 分裂，分化"
+        ],
+        "usphone": "质量概念导致的思想分化，区分古典与浪漫",
+        "ukphone": "221"
+    },
+    {
+        "name": "meander",
+        "trans": [
+            "v. 漫步，闲逛"
+        ],
+        "usphone": "费德鲁斯关于质量的思想徘徊和探索",
+        "ukphone": "227"
+    },
+    {
+        "name": "dilemma",
+        "trans": [
+            "n. 困境，两难"
+        ],
+        "usphone": "费德鲁斯面临的逻辑难题：质量是主观的还是客观的",
+        "ukphone": "228"
+    },
+    {
+        "name": "impaled",
+        "trans": [
+            "v. 刺穿，穿透"
+        ],
+        "usphone": "比喻陷入两难困境如同被犀牛角刺穿",
+        "ukphone": "228"
+    },
+    {
+        "name": "refutation",
+        "trans": [
+            "n. 反驳，驳斥"
+        ],
+        "usphone": "对两难困境的逻辑性反驳，费德鲁斯有三种方法可用",
+        "ukphone": "228"
+    },
+    {
+        "name": "dialectical",
+        "trans": [
+            "adj. 辩证的"
+        ],
+        "usphone": "费德鲁斯使用的思维方法，通过对立的概念找到真理",
+        "ukphone": "229"
+    },
+    {
+        "name": "materialism",
+        "trans": [
+            "n. 唯物主义"
+        ],
+        "usphone": "认为只有物质和能量才是真实的哲学观点，也是他反对的观点",
+        "ukphone": "233"
+    },
+    {
+        "name": "formalism",
+        "trans": [
+            "n. 形式主义"
+        ],
+        "usphone": "强调形式和结构胜过内容的思想体系",
+        "ukphone": "233"
+    },
+    {
+        "name": "idealism",
+        "trans": [
+            "n. 唯心主义"
+        ],
+        "usphone": "认为世界主要由心灵或观念构成的哲学立场",
+        "ukphone": "234"
+    },
+    {
+        "name": "casuist",
+        "trans": [
+            "n. 诡辩者"
+        ],
+        "usphone": "费德鲁斯用来回避关于质量定义困难的狡猾技巧",
+        "ukphone": "236"
+    },
+    {
+        "name": "casuistically",
+        "trans": [
+            "adv. 诡辩地"
+        ],
+        "usphone": "费德鲁斯不诚实地回答为何不同人对质量有不同理解的问题",
+        "ukphone": "235"
+    },
+    {
+        "name": "falseness",
+        "trans": [
+            "n. 虚假，不真实"
+        ],
+        "usphone": "学生能感觉到费德鲁斯解释中的不实之处",
+        "ukphone": "235"
+    },
+    {
+        "name": "monism",
+        "trans": [
+            "n. 一元论"
+        ],
+        "usphone": "认为世界由单一本质或原则构成的哲学理论",
+        "ukphone": "238"
+    },
+    {
+        "name": "dualism",
+        "trans": [
+            "n. 二元论"
+        ],
+        "usphone": "世界由两种基本原素构成的理论，如心灵与物质",
+        "ukphone": "238"
+    },
+    {
+        "name": "pluralism",
+        "trans": [
+            "n. 多元论"
+        ],
+        "usphone": "认为世界由多种元素构成的哲学观点",
+        "ukphone": "238"
+    },
+    {
+        "name": "presumption",
+        "trans": [
+            "n. 假定，臆断"
+        ],
+        "usphone": "质量是主客体碰撞结果的错误前提",
+        "ukphone": "238"
+    },
+    {
+        "name": "culmination",
+        "trans": [
+            "n. 顶点，高潮"
+        ],
+        "usphone": "费德鲁斯思想发展的最高点，当他认识到质量创造了主体和客体",
+        "ukphone": "239"
+    },
+    {
+        "name": "excavate",
+        "trans": [
+            "v. 挖掘，发掘"
+        ],
+        "usphone": "从倒塌的山体中挖出遇难者的尸体",
+        "ukphone": "242"
+    },
+    {
+        "name": "ravine",
+        "trans": [
+            "n. 峡谷，沟壑"
+        ],
+        "usphone": "在山中的狭长沟壑，作者和儿子沿其下山",
+        "ukphone": "244"
+    },
+    {
+        "name": "Doppelgänger",
+        "trans": [
+            "n. 双重身体，幽灵复制品"
+        ],
+        "usphone": "书中指精神体、鬼魂或心理投射，等待在山顶的某种实体",
+        "ukphone": "245"
+    },
+    {
+        "name": "eerie",
+        "trans": [
+            "adj. 怪异的，令人毛骨悚然的"
+        ],
+        "usphone": "描述高处带来的不安感，让作者想要下山",
+        "ukphone": "245"
+    },
+    {
+        "name": "contemplate",
+        "trans": [
+            "v. 沉思，凝视"
+        ],
+        "usphone": "深入思考或注视某事，作者对Phaedrus思想的反思",
+        "ukphone": "246"
+    },
+    {
+        "name": "crystallization",
+        "trans": [
+            "n. 结晶，具体化"
+        ],
+        "usphone": "思想形成清晰结构的过程，Phaedrus思想发展的阶段",
+        "ukphone": "246"
+    },
+    {
+        "name": "ground out",
+        "trans": [
+            "短语. 得出结论，确立基础"
+        ],
+        "usphone": "使抽象概念在现实世界中找到基础或落脚点",
+        "ukphone": "246"
+    },
+    {
+        "name": "metaphysical",
+        "trans": [
+            "adj. 形而上学的，哲学的"
+        ],
+        "usphone": "关于现实本质的哲学思考，超越物理世界的抽象概念",
+        "ukphone": "246"
+    },
+    {
+        "name": "Copernican",
+        "trans": [
+            "adj. 哥白尼的，革命性的"
+        ],
+        "usphone": "指哥白尼式的思想革命，颠覆传统认知",
+        "ukphone": "247"
+    },
+    {
+        "name": "intellectually",
+        "trans": [
+            "adv. 理智地，智力上地"
+        ],
+        "usphone": "以理性思维方式，与感性或直觉相对",
+        "ukphone": "247"
+    },
+    {
+        "name": "inversion",
+        "trans": [
+            "n. 倒置，颠倒"
+        ],
+        "usphone": "关系的颠倒或反转，书中指Quality与客观世界关系的颠倒",
+        "ukphone": "247"
+    },
+    {
+        "name": "realm",
+        "trans": [
+            "n. 领域，范围"
+        ],
+        "usphone": "特定的知识或经验范围，如日常生活的领域",
+        "ukphone": "247"
+    },
+    {
+        "name": "conceived",
+        "trans": [
+            "v. 构思，设想(conceive的过去式)"
+        ],
+        "usphone": "在思想中形成或产生概念",
+        "ukphone": "248"
+    },
+    {
+        "name": "fussbudgetry",
+        "trans": [
+            "n. 过分讲究，吹毛求疵"
+        ],
+        "usphone": "过度关注细节的行为，从浪漫主义角度看是琐碎的",
+        "ukphone": "248"
+    },
+    {
+        "name": "analogues",
+        "trans": [
+            "n. 类似物，相似物"
+        ],
+        "usphone": "心智中与过去经验相似的形象，用于理解新体验",
+        "ukphone": "249"
+    },
+    {
+        "name": "trinity",
+        "trans": [
+            "n. 三位一体"
+        ],
+        "usphone": "哲学上的三元结构：质量、心灵和物质",
+        "ukphone": "249"
+    },
+    {
+        "name": "analytic",
+        "trans": [
+            "adj. 分析的，解析的"
+        ],
+        "usphone": "通过分解为部分来理解整体的思维方式",
+        "ukphone": "250"
+    },
+    {
+        "name": "predicates",
+        "trans": [
+            "n. 谓语，断定"
+        ],
+        "usphone": "逻辑或语法中对主语的陈述部分",
+        "ukphone": "250"
+    },
+    {
+        "name": "sensitize",
+        "trans": [
+            "v. 使敏感，使易感"
+        ],
+        "usphone": "使某人对特定事物变得更加敏感或注意",
+        "ukphone": "250"
+    },
+    {
+        "name": "mesmerize",
+        "trans": [
+            "v. 迷住，催眠"
+        ],
+        "usphone": "使人着迷或失去独立思考能力",
+        "ukphone": "251"
+    },
+    {
+        "name": "inventiveness",
+        "trans": [
+            "n. 创造力，独创性"
+        ],
+        "usphone": "创造新想法或解决方案的能力",
+        "ukphone": "252"
+    },
+    {
+        "name": "indefinability",
+        "trans": [
+            "n. 不可定义性"
+        ],
+        "usphone": "无法被精确定义的特性，Quality的本质特征",
+        "ukphone": "252"
+    },
+    {
+        "name": "elusive",
+        "trans": [
+            "adj. 难以捉摸的，难以确定的"
+        ],
+        "usphone": "形容道/Quality难以把握或定义的特性",
+        "ukphone": "253"
+    },
+    {
+        "name": "fathomless",
+        "trans": [
+            "adj. 深不可测的，无底的"
+        ],
+        "usphone": "形容Quality/道的深不可测，难以完全理解",
+        "ukphone": "253"
+    },
+    {
+        "name": "manifestations",
+        "trans": [
+            "n. 表现，显示"
+        ],
+        "usphone": "抽象概念的具体体现，如浪漫Quality的古典表现",
+        "ukphone": "253"
+    },
+    {
+        "name": "avalanche",
+        "trans": [
+            "n. 雪崩；大量"
+        ],
+        "usphone": "比喻思想意识的崩塌，失控的思维过程导致精神崩溃",
+        "ukphone": "254"
+    },
+    {
+        "name": "continuity",
+        "trans": [
+            "n. 连续性，持续性"
+        ],
+        "usphone": "事物不间断的延续，Quality的持久特性",
+        "ukphone": "254"
+    },
+    {
+        "name": "primeval",
+        "trans": [
+            "adj. 原始的，远古的"
+        ],
+        "usphone": "最早的、起初的、原始的状态或时期",
+        "ukphone": "254"
+    },
+    {
+        "name": "procession",
+        "trans": [
+            "n. 队伍，行列"
+        ],
+        "usphone": "Sylvia形容的现代生活像一场葬礼队伍",
+        "ukphone": "256"
+    },
+    {
+        "name": "assimilate",
+        "trans": [
+            "v. 吸收，同化"
+        ],
+        "usphone": "将新思想融入已有知识体系，理解并接纳",
+        "ukphone": "257"
+    },
+    {
+        "name": "dictum",
+        "trans": [
+            "n. 格言，宣言"
+        ],
+        "usphone": "权威性的声明或断言，如科学是价值中立的说法",
+        "ukphone": "258"
+    },
+    {
+        "name": "byproduct",
+        "trans": [
+            "n. 副产品，附带结果"
+        ],
+        "usphone": "主要行动或过程的次要结果",
+        "ukphone": "259"
+    },
+    {
+        "name": "complacency",
+        "trans": [
+            "n. 自满，满足"
+        ],
+        "usphone": "对现状的满足，不思进取，科学界的自满情绪",
+        "ukphone": "260"
+    },
+    {
+        "name": "axiom",
+        "trans": [
+            "n. 公理，自明之理"
+        ],
+        "usphone": "几何学中不需证明的基本真理，如欧几里得第五公设",
+        "ukphone": "261"
+    },
+    {
+        "name": "irrefutably",
+        "trans": [
+            "adv. 无可辩驳地"
+        ],
+        "usphone": "以无法反驳的方式证明某事",
+        "ukphone": "261"
     },
     {
         "name": "presumption",
         "trans": [
             "n. 假设，推测"
-        ]
+        ],
+        "usphone": "未经证实但被认为是真的想法或信念",
+        "ukphone": "262"
     },
     {
-        "name": "specializations",
+        "name": "a priori",
         "trans": [
-            "n. 专业化"
-        ]
+            "adj. 先验的，纯粹推理的"
+        ],
+        "usphone": "在经验之前或独立于经验的知识或判断",
+        "ukphone": "263"
     },
     {
-        "name": "alienation",
+        "name": "synthetic",
         "trans": [
-            "n. 疏远，异化"
-        ]
+            "adj. 综合的，合成的"
+        ],
+        "usphone": "在康德哲学中，综合命题增加我们对主题的知识",
+        "ukphone": "263"
     },
     {
-        "name": "aggression",
+        "name": "dualistic",
         "trans": [
-            "n. 侵略性，攻击性"
-        ]
+            "adj. 二元论的"
+        ],
+        "usphone": "将现实分为相对的两部分(如主体/客体)的思维方式",
+        "ukphone": "264"
     },
     {
-        "name": "subversive",
+        "name": "preintellectual",
         "trans": [
-            "adj. 颠覆性的"
-        ]
+            "adj. 智力前的，理性前的"
+        ],
+        "usphone": "在理性分析之前的意识状态，直接感知Quality的阶段",
+        "ukphone": "267"
     },
     {
-        "name": "serene",
+        "name": "subliminal",
         "trans": [
-            "adj. 宁静的"
-        ]
+            "adj. 潜意识的，阈下的"
+        ],
+        "usphone": "存在于意识阈限以下的心理过程，潜意识选择",
+        "ukphone": "267"
     },
     {
-        "name": "imposture",
+        "name": "stuckness",
         "trans": [
-            "n. 冒充，伪装"
-        ]
+            "n. 卡住的状态"
+        ],
+        "usphone": "思想或行动中的受阻状态，无法前进的困境",
+        "ukphone": "278"
     },
     {
-        "name": "veneer",
+        "name": "kaput",
         "trans": [
-            "n. 薄板，表面（此处指家具）"
-        ]
+            "adj. 完蛋的，失败的"
+        ],
+        "usphone": "完全失败或无法运作的状态，修理中的绝望时刻",
+        "ukphone": "279"
     },
     {
-        "name": "reglued",
+        "name": "chisel",
         "trans": [
-            "v. 重新粘合"
-        ]
+            "n. 凿子"
+        ],
+        "usphone": "一种用来切割或雕刻硬材料的工具，挫折时想用来砸开摩托车部件",
+        "ukphone": "280"
     },
     {
-        "name": "enigmatic",
+        "name": "disinterestedly",
         "trans": [
-            "adj. 神秘的，费解的"
-        ]
+            "adv. 公正地，无私地"
+        ],
+        "usphone": "不受个人兴趣或偏见影响的思考方式",
+        "ukphone": "281"
     },
     {
-        "name": "terrain",
+        "name": "intricate",
         "trans": [
-            "n. 地形，领域"
-        ]
+            "adj. 复杂的，精细的"
+        ],
+        "usphone": "结构复杂且有细节的，描述摩托车与人的品质关系",
+        "ukphone": "281"
     },
     {
-        "name": "concealing",
+        "name": "dualistic",
         "trans": [
-            "v. 隐藏"
-        ]
+            "adj. 二元论的"
+        ],
+        "usphone": "将现实分为相对的两部分(如主体/客体)的思维方式",
+        "ukphone": "282"
     },
     {
-        "name": "intermittently",
+        "name": "empirical",
         "trans": [
-            "adv. 间歇性地"
-        ]
+            "adj. 经验的，实证的"
+        ],
+        "usphone": "基于观察和经验而非理论的知识获取方式",
+        "ukphone": "282"
     },
     {
-        "name": "jiggle",
+        "name": "noncaring",
         "trans": [
-            "v. 轻摇，抖动"
-        ]
+            "adj. 漠不关心的"
+        ],
+        "usphone": "缺乏关心或投入的态度，技术工作中的问题根源",
+        "ukphone": "282"
     },
     {
-        "name": "cocksure",
+        "name": "preselection",
         "trans": [
-            "adj. 过于自信的"
-        ]
+            "n. 预先选择"
+        ],
+        "usphone": "在观察前已经进行的选择，科学观察中的价值判断",
+        "ukphone": "282"
     },
     {
-        "name": "menace",
+        "name": "rationality",
         "trans": [
-            "n. 威胁"
-        ]
+            "n. 理性，合理性"
+        ],
+        "usphone": "基于逻辑和理性的思维能力或特性",
+        "ukphone": "282"
     },
     {
-        "name": "rangers",
+        "name": "gumption",
         "trans": [
-            "n. 护林员"
-        ]
+            "n. 进取心，勇气"
+        ],
+        "usphone": "解决问题的心理能量，修理摩托车的关键精神资源",
+        "ukphone": "302"
     },
     {
-        "name": "doctrinal",
+        "name": "enthousiasmos",
         "trans": [
-            "adj. 教义的"
-        ]
+            "n. 神灵附体，热情"
+        ],
+        "usphone": "希腊词，字面意思是'充满神灵'，与'热情'相关",
+        "ukphone": "303"
     },
     {
-        "name": "verbalized",
+        "name": "gumptionology",
         "trans": [
-            "adj. 用语言表达的"
-        ]
+            "n. 进取心研究学"
+        ],
+        "usphone": "作者创造的词，研究阻碍进取心的各种障碍的学问",
+        "ukphone": "305"
     },
     {
-        "name": "enlightened",
+        "name": "setback",
         "trans": [
-            "adj. 开悟的"
-        ]
+            "n. 挫折，阻碍"
+        ],
+        "usphone": "外部原因导致的进取心损失，修理过程中的外部障碍",
+        "ukphone": "305"
     },
     {
-        "name": "dhyana",
+        "name": "reassembly",
         "trans": [
-            "n. 禅定（梵语）"
-        ]
+            "n. 重新组装"
+        ],
+        "usphone": "拆卸后按正确顺序重新组装，机械维修的关键步骤",
+        "ukphone": "306"
     },
     {
-        "name": "latent",
+        "name": "intermittent",
         "trans": [
-            "adj. 潜在的"
-        ]
+            "adj. 间歇的，断断续续的"
+        ],
+        "usphone": "断断续续出现的故障，很难诊断和修复的问题类型",
+        "ukphone": "307"
     },
     {
-        "name": "incongruities",
+        "name": "fussiness",
         "trans": [
-            "n. 不一致，不协调"
-        ]
+            "n. 过分挑剔，繁琐"
+        ],
+        "usphone": "过度注重细节的倾向，焦虑导致的错误类型",
+        "ukphone": "315"
     },
     {
-        "name": "odd",
+        "name": "egoistic",
         "trans": [
-            "adj. 奇怪的，临时的（此处指零工）"
-        ]
+            "adj. 自我中心的"
+        ],
+        "usphone": "以自我为中心的态度，阻碍技术工作的心理障碍",
+        "ukphone": "315"
     },
     {
-        "name": "sage",
+        "name": "indefinite",
         "trans": [
-            "n. 鼠尾草（植物）"
-        ]
+            "adj. 不确定的，无限期的"
+        ],
+        "usphone": "没有明确界限或时间的，处理修理工作的正确态度",
+        "ukphone": "317"
     },
     {
-        "name": "twilight",
+        "name": "dialectically",
         "trans": [
-            "n. 暮色，黄昏"
-        ]
+            "adv. 辩证地"
+        ],
+        "usphone": "使用辩证法的方式，通过对立观点的综合寻求真理",
+        "ukphone": "319"
     },
     {
-        "name": "boulders",
+        "name": "mu",
         "trans": [
-            "n. 巨石"
-        ]
+            "n. 无，不可说"
+        ],
+        "usphone": "禅宗术语，表示问题本身有误，超越是/否二元对立的答案",
+        "ukphone": "320"
     },
     {
-        "name": "fragrance",
+        "name": "kinesthesia",
         "trans": [
-            "n. 香气"
-        ]
+            "n. 动觉，运动感"
+        ],
+        "usphone": "对身体运动的感知能力，优秀机械师的身体感知能力",
+        "ukphone": "323"
+    },
+    {
+        "name": "elasticity",
+        "trans": [
+            "n. 弹性，伸缩性"
+        ],
+        "usphone": "金属材料的弹性特性，机械师必须了解的物理特性",
+        "ukphone": "323"
+    },
+    {
+        "name": "kinesthetic",
+        "trans": [
+            "adj. 动觉的"
+        ],
+        "usphone": "与身体运动感知相关的，优秀技工对材料弹性的内在感觉",
+        "ukphone": "323"
+    },
+    {
+        "name": "plumb-line",
+        "trans": [
+            "n. 铅垂线"
+        ],
+        "usphone": "测量垂直度的工具，代表传统理性方法的实用性",
+        "ukphone": "338"
+    },
+    {
+        "name": "monastic",
+        "trans": [
+            "adj. 修道院的，隐修的"
+        ],
+        "usphone": "如修道士般的冥想状态，达到内心平静的方式之一",
+        "ukphone": "295"
+    },
+    {
+        "name": "craftsmanship",
+        "trans": [
+            "n. 工艺，技艺"
+        ],
+        "usphone": "精湛的技术技能，与对工作的关心和认同相关",
+        "ukphone": "296"
+    },
+    {
+        "name": "underlying",
+        "trans": [
+            "adj. 潜在的，根本的"
+        ],
+        "usphone": "在表面之下的基础结构或原理，艺术的深层形式",
+        "ukphone": "297"
+    },
+    {
+        "name": "transcendence",
+        "trans": [
+            "n. 超越，卓越"
+        ],
+        "usphone": "超越普通限制的状态，人与技术融合的高级体验",
+        "ukphone": "291"
+    },
+    {
+        "name": "techne",
+        "trans": [
+            "n. 技艺，工艺"
+        ],
+        "usphone": "古希腊词，指艺术和技术的统一，现代词technology的词根",
+        "ukphone": "290"
+    },
+    {
+        "name": "prerequisite",
+        "trans": [
+            "n. 先决条件，前提"
+        ],
+        "usphone": "心灵的宁静是感知高品质工作所必需的前提条件",
+        "ukphone": "294"
+    },
+    {
+        "name": "reunification",
+        "trans": [
+            "n. 重新统一，再合并"
+        ],
+        "usphone": "艺术与技术的再次结合，书中作者认为这是非常必要的",
+        "ukphone": "294"
+    },
+    {
+        "name": "unselfconsciousness",
+        "trans": [
+            "n. 无自我意识状态"
+        ],
+        "usphone": "与环境完全认同的状态，产生高品质工作的心理状态",
+        "ukphone": "295"
+    },
+    {
+        "name": "unobtainable",
+        "trans": [
+            "adj. 不能获得的，达不到的"
+        ],
+        "usphone": "如果没有自我认识，成就的高峰往往是无法达到的",
+        "ukphone": "295"
+    },
+    {
+        "name": "Procrustean",
+        "trans": [
+            "adj. 强迫一致的，生搬硬套的"
+        ],
+        "usphone": "来自希腊神话，强行使事物适应预设标准的思维方式",
+        "ukphone": "338"
+    },
+    {
+        "name": "nondualistic",
+        "trans": [
+            "adj. 非二元的"
+        ],
+        "usphone": "拒绝将世界分为主体/客体的哲学观点，Quality的视角",
+        "ukphone": "338"
+    },
+    {
+        "name": "inscrutable",
+        "trans": [
+            "adj. 难以理解的，神秘的"
+        ],
+        "usphone": "无法理解或解释的，描述学术委员会的语言",
+        "ukphone": "340"
+    },
+    {
+        "name": "labyrinthine",
+        "trans": [
+            "adj. 迷宫般的，复杂难懂的"
+        ],
+        "usphone": "极其复杂且难以理解的结构，描述主席的写作风格",
+        "ukphone": "340"
+    },
+    {
+        "name": "locus",
+        "trans": [
+            "n. 地点，位置"
+        ],
+        "usphone": "事件或活动发生的中心点或位置",
+        "ukphone": "341"
+    },
+    {
+        "name": "cross-fertilized",
+        "trans": [
+            "adj. 交叉授粉的"
+        ],
+        "usphone": "不同思想领域相互影响产生新想法的过程",
+        "ukphone": "342"
+    },
+    {
+        "name": "Aristotelian",
+        "trans": [
+            "adj. 亚里士多德的"
+        ],
+        "usphone": "与希腊哲学家亚里士多德的思想体系相关的",
+        "ukphone": "342"
+    },
+    {
+        "name": "empirical",
+        "trans": [
+            "adj. 经验的，实证的"
+        ],
+        "usphone": "基于观察或实验而非理论的知识获取方式",
+        "ukphone": "342"
+    },
+    {
+        "name": "medievalist",
+        "trans": [
+            "n. 中世纪研究者"
+        ],
+        "usphone": "研究中世纪历史、文学或艺术的学者",
+        "ukphone": "342"
+    },
+    {
+        "name": "repercussions",
+        "trans": [
+            "n. 影响，反响"
+        ],
+        "usphone": "某事件或行动的间接后果或影响",
+        "ukphone": "342"
+    },
+    {
+        "name": "Spinozist",
+        "trans": [
+            "n. 斯宾诺莎主义者"
+        ],
+        "usphone": "遵循哲学家斯宾诺莎思想的人，委员会主席的哲学背景",
+        "ukphone": "342"
+    },
+    {
+        "name": "synthesis",
+        "trans": [
+            "n. 综合，合成"
+        ],
+        "usphone": "将不同元素结合成一个整体，托马斯阿奎那的哲学方法",
+        "ukphone": "342"
+    },
+    {
+        "name": "vestige",
+        "trans": [
+            "n. 遗迹，残余"
+        ],
+        "usphone": "过去存在事物的痕迹或残留部分",
+        "ukphone": "342"
+    },
+    {
+        "name": "dialectic",
+        "trans": [
+            "n. 辩证法，对话法"
+        ],
+        "usphone": "哲学中通过问答和辩论寻求真理的方法，书中与修辞学对立",
+        "ukphone": "343"
+    },
+    {
+        "name": "Sophists",
+        "trans": [
+            "n. 诡辩家，智者派哲学家"
+        ],
+        "usphone": "古希腊的职业教师，教导修辞和辩论技巧，被柏拉图批评",
+        "ukphone": "343"
+    },
+    {
+        "name": "methodology",
+        "trans": [
+            "n. 方法论"
+        ],
+        "usphone": "研究方法的系统，科学进行的原则和程序",
+        "ukphone": "344"
+    },
+    {
+        "name": "substantive",
+        "trans": [
+            "adj. 实质的，独立存在的"
+        ],
+        "usphone": "与实体相关的领域，与方法论领域相对",
+        "ukphone": "337"
+    },
+    {
+        "name": "methodological",
+        "trans": [
+            "adj. 方法论的"
+        ],
+        "usphone": "与方法相关的领域，与实质性领域相对",
+        "ukphone": "337"
+    },
+    {
+        "name": "metaphysics",
+        "trans": [
+            "n. 形而上学"
+        ],
+        "usphone": "研究现实本质和存在本质的哲学分支",
+        "ukphone": "347"
+    },
+    {
+        "name": "logos",
+        "trans": [
+            "n. 理性，逻辑"
+        ],
+        "usphone": "理性理解的总和，与神话相对，'逻辑'的词根",
+        "ukphone": "349"
+    },
+    {
+        "name": "mythos",
+        "trans": [
+            "n. 神话，神话思维"
+        ],
+        "usphone": "人类理性理解之前的早期神话和传说总和",
+        "ukphone": "349"
+    },
+    {
+        "name": "intrinsic",
+        "trans": [
+            "adj. 内在的，固有的"
+        ],
+        "usphone": "事物本质上固有的，不依赖外部的",
+        "ukphone": "350"
+    },
+    {
+        "name": "analogies",
+        "trans": [
+            "n. 类比，比喻(analogy的复数)"
+        ],
+        "usphone": "通过相似性建立的比较，神话通过类比构建",
+        "ukphone": "351"
+    },
+    {
+        "name": "analytically",
+        "trans": [
+            "adv. 分析地"
+        ],
+        "usphone": "通过分解为部分来理解整体的方式",
+        "ukphone": "360"
+    },
+    {
+        "name": "desiccating",
+        "trans": [
+            "adj. 使干燥的，使枯萎的"
+        ],
+        "usphone": "描述二元理性思维的干瘪无生气的声音",
+        "ukphone": "360"
+    },
+    {
+        "name": "interrelate",
+        "trans": [
+            "v. 相互关联"
+        ],
+        "usphone": "建立事物之间的联系，亚里士多德分类分析的方式",
+        "ukphone": "360"
+    },
+    {
+        "name": "hostility",
+        "trans": [
+            "n. 敌意，敌对"
+        ],
+        "usphone": "其他学生对取消成绩和学位建议的反应",
+        "ukphone": "367"
+    },
+    {
+        "name": "messianic",
+        "trans": [
+            "adj. 救世主的，狂热的"
+        ],
+        "usphone": "带有拯救或改变世界使命感的状态",
+        "ukphone": "367"
+    },
+    {
+        "name": "Platonist",
+        "trans": [
+            "adj. 柏拉图主义者"
+        ],
+        "usphone": "追随柏拉图哲学的人，寻求超越的理念",
+        "ukphone": "367"
+    },
+    {
+        "name": "pandering",
+        "trans": [
+            "n. 迎合，讨好"
+        ],
+        "usphone": "苏格拉底称修辞学如同迎合情感而非真理的皮条客",
+        "ukphone": "369"
+    },
+    {
+        "name": "epistemology",
+        "trans": [
+            "n. 认识论"
+        ],
+        "usphone": "研究知识本质、起源和限度的哲学分支",
+        "ukphone": "369"
+    },
+    {
+        "name": "dualistic",
+        "trans": [
+            "adj. 二元论的"
+        ],
+        "usphone": "将现实分为相对的两部分(如主体/客体)的思维方式",
+        "ukphone": "370"
+    },
+    {
+        "name": "enthrone",
+        "trans": [
+            "v. 使登基，使处于高位"
+        ],
+        "usphone": "将某物提升到最高位置，如辩证法试图取代Quality",
+        "ukphone": "370"
+    },
+    {
+        "name": "parvenu",
+        "trans": [
+            "n. 暴发户，新贵"
+        ],
+        "usphone": "比喻辩证法试图侵占美和智慧等领域，但无深厚根基",
+        "ukphone": "370"
+    },
+    {
+        "name": "a priori",
+        "trans": [
+            "adj./adv. 先验的"
+        ],
+        "usphone": "独立于经验的，在经验之前就已确定的知识",
+        "ukphone": "372"
+    },
+    {
+        "name": "aretê",
+        "trans": [
+            "n. 卓越，德性"
+        ],
+        "usphone": "古希腊概念，意为'优秀'或'卓越'，与作者所说的Quality相似",
+        "ukphone": "376"
+    },
+    {
+        "name": "dharma",
+        "trans": [
+            "n. 达摩，法则"
+        ],
+        "usphone": "印度哲学中描述'自我责任'或'宇宙规律'的概念",
+        "ukphone": "376"
+    },
+    {
+        "name": "immanent",
+        "trans": [
+            "adj. 内在的，固有的"
+        ],
+        "usphone": "存在于事物内部的，赫拉克利特认为宇宙规律内在于万物",
+        "ukphone": "372"
+    },
+    {
+        "name": "preintellectual",
+        "trans": [
+            "adj. 理智前的"
+        ],
+        "usphone": "在理性分析前的意识状态，直接感知Quality的阶段",
+        "ukphone": "372"
+    },
+    {
+        "name": "transcendence",
+        "trans": [
+            "n. 超越性"
+        ],
+        "usphone": "超越物质世界和普通经验的状态或品质",
+        "ukphone": "372"
+    },
+    {
+        "name": "anthropomorphic",
+        "trans": [
+            "adj. 拟人化的"
+        ],
+        "usphone": "将人类特质赋予非人实体，如古代神话中的神",
+        "ukphone": "373"
+    },
+    {
+        "name": "cosmologists",
+        "trans": [
+            "n. 宇宙论者"
+        ],
+        "usphone": "古希腊研究宇宙本质和起源的哲学家",
+        "ukphone": "373"
+    },
+    {
+        "name": "Quality",
+        "trans": [
+            "n. 质量，品质"
+        ],
+        "usphone": "书中核心概念，指事物内在的优越性，超越主客体二元论",
+        "ukphone": "373"
+    },
+    {
+        "name": "encapsulated",
+        "trans": [
+            "v. 封装，概括(encapsulate的过去式)"
+        ],
+        "usphone": "将卓越(aretê)固定为永恒的理念，限制其动态本质",
+        "ukphone": "378"
+    },
+    {
+        "name": "synthetic",
+        "trans": [
+            "adj. 综合的，合成的"
+        ],
+        "usphone": "将不同部分或元素结合的过程，柏拉图的哲学综合",
+        "ukphone": "378"
+    },
+    {
+        "name": "Aristotelian",
+        "trans": [
+            "adj. 亚里士多德的"
+        ],
+        "usphone": "遵循亚里士多德思想体系的，注重具体形式和实体",
+        "ukphone": "380"
+    },
+    {
+        "name": "peevishness",
+        "trans": [
+            "n. 易怒，脾气暴躁"
+        ],
+        "usphone": "因不满而表现出的小气或易怒情绪",
+        "ukphone": "382"
+    },
+    {
+        "name": "foil",
+        "trans": [
+            "n. 陪衬，对比"
+        ],
+        "usphone": "对话中的次要角色，用来衬托主角的智慧",
+        "ukphone": "383"
+    },
+    {
+        "name": "benignly",
+        "trans": [
+            "adv. 和蔼地，仁慈地"
+        ],
+        "usphone": "表面上友善但实际上威胁的态度",
+        "ukphone": "385"
+    },
+    {
+        "name": "magnanimity",
+        "trans": [
+            "n. 宽宏大量"
+        ],
+        "usphone": "表面上的高尚慷慨，实际上是权威的伪装",
+        "ukphone": "385"
+    },
+    {
+        "name": "monistic",
+        "trans": [
+            "adj. 一元论的"
+        ],
+        "usphone": "认为现实的本质是单一的哲学观点",
+        "ukphone": "386"
+    },
+    {
+        "name": "elicit",
+        "trans": [
+            "v. 引出，诱导"
+        ],
+        "usphone": "通过提问使学生给出答案的教学方法",
+        "ukphone": "386"
+    },
+    {
+        "name": "allegorically",
+        "trans": [
+            "adv. 寓言式地，比喻地"
+        ],
+        "usphone": "通过象征或类比的方式表达，是描述1的唯一方式",
+        "ukphone": "386"
+    },
+    {
+        "name": "contemptuous",
+        "trans": [
+            "adj. 轻蔑的，鄙视的"
+        ],
+        "usphone": "表现出强烈不尊重或鄙视的态度",
+        "ukphone": "387"
+    },
+    {
+        "name": "contemptuously",
+        "trans": [
+            "adv. 轻蔑地"
+        ],
+        "usphone": "带有明显蔑视的态度，显示智力傲慢",
+        "ukphone": "387"
+    },
+    {
+        "name": "allegory",
+        "trans": [
+            "n. 寓言，寓意"
+        ],
+        "usphone": "通过具体形象表达抽象概念的方式，如柏拉图的战车寓言",
+        "ukphone": "388"
+    },
+    {
+        "name": "unction",
+        "trans": [
+            "n. 油滑，做作的热情"
+        ],
+        "usphone": "假装的真诚或热情，掩盖真实意图",
+        "ukphone": "390"
+    },
+    {
+        "name": "propagandist",
+        "trans": [
+            "n. 宣传者"
+        ],
+        "usphone": "特定观点的推广者，不是真正的真理探索者",
+        "ukphone": "391"
+    },
+    {
+        "name": "scathing",
+        "trans": [
+            "adj. 严厉的，尖刻的"
+        ],
+        "usphone": "极其严厉或伤人的批评方式",
+        "ukphone": "392"
+    },
+    {
+        "name": "grotesque",
+        "trans": [
+            "adj. 怪诞的，荒谬的"
+        ],
+        "usphone": "书中形容城市环境中扭曲变形的东西，与Quality相对",
+        "ukphone": "394"
+    },
+    {
+        "name": "Quality",
+        "trans": [
+            "n. 品质，质量"
+        ],
+        "usphone": "全书核心概念，非主观也非客观的第三实体，一种卓越的存在",
+        "ukphone": "394"
+    },
+    {
+        "name": "dialectician",
+        "trans": [
+            "n. 辩证法家"
+        ],
+        "usphone": "使用辩证法的人，柏拉图等人试图用理性定义Good的哲学家",
+        "ukphone": "395"
+    },
+    {
+        "name": "undefined",
+        "trans": [
+            "adj. 未定义的"
+        ],
+        "usphone": "Phaedrus希望Quality保持未被定义的状态，避免僵化",
+        "ukphone": "395"
+    },
+    {
+        "name": "encumbrances",
+        "trans": [
+            "n. 负担，妨碍物"
+        ],
+        "usphone": "主角在精神崩溃前抛弃的人生包袱和责任",
+        "ukphone": "396"
+    },
+    {
+        "name": "imperceptibly",
+        "trans": [
+            "adv. 不知不觉地"
+        ],
+        "usphone": "精神崩溃初期意识分解的方式，几乎难以察觉",
+        "ukphone": "396"
+    },
+    {
+        "name": "loathsomeness",
+        "trans": [
+            "n. 可憎恶的事物"
+        ],
+        "usphone": "精神崩溃过程中失去的耻辱感和厌恶感",
+        "ukphone": "396"
+    },
+    {
+        "name": "lonesome valley",
+        "trans": [
+            "短语 孤独的山谷"
+        ],
+        "usphone": "基督教赞美诗中象征必须独自面对的精神旅程",
+        "ukphone": "396"
+    },
+    {
+        "name": "bumpy blacktop",
+        "trans": [
+            "短语 颠簸的沥青路面"
+        ],
+        "usphone": "远离高速公路后粗糙的小路，象征偏离主流社会",
+        "ukphone": "397"
+    },
+    {
+        "name": "sordid",
+        "trans": [
+            "adj. 肮脏的，卑劣的"
+        ],
+        "usphone": "描述旅馆房间的简陋和荒凉，三十年代经济萧条的残余",
+        "ukphone": "397"
+    },
+    {
+        "name": "eerie",
+        "trans": [
+            "adj. 怪异的，令人毛骨悚然的"
+        ],
+        "usphone": "描述Chris封闭自我的奇怪摇晃动作，让父亲想起医院",
+        "ukphone": "398"
+    },
+    {
+        "name": "fetal",
+        "trans": [
+            "adj. 胎儿的"
+        ],
+        "usphone": "Chris蜷缩的姿势如同胎儿，表示回到安全的原始状态",
+        "ukphone": "398"
+    },
+    {
+        "name": "self-enclosure",
+        "trans": [
+            "n. 自我封闭"
+        ],
+        "usphone": "精神防御机制，Chris通过封闭自我来抵抗痛苦",
+        "ukphone": "398"
+    },
+    {
+        "name": "distant mood",
+        "trans": [
+            "短语 疏远的情绪"
+        ],
+        "usphone": "Chris的情绪状态，与父亲保持心理距离",
+        "ukphone": "399"
+    },
+    {
+        "name": "dawdles",
+        "trans": [
+            "v. 磨蹭，拖延"
+        ],
+        "usphone": "Chris接过衣服但不穿上，表示消极反抗",
+        "ukphone": "400"
+    },
+    {
+        "name": "hypocrisy",
+        "trans": [
+            "n. 虚伪，伪善"
+        ],
+        "usphone": "作者认识到自己的Chautauqua讲述中的矛盾和不诚实",
+        "ukphone": "401"
+    },
+    {
+        "name": "heretic",
+        "trans": [
+            "n. 异教徒，异端"
+        ],
+        "usphone": "作者形容自己为 背叛信仰的异端 为自保改变信念",
+        "ukphone": "401"
+    },
+    {
+        "name": "recanted",
+        "trans": [
+            "v. 放弃(信仰)"
+        ],
+        "usphone": "作者为适应社会而放弃了Phaedrus的真实信念",
+        "ukphone": "401"
+    },
+    {
+        "name": "subject-object duality",
+        "trans": [
+            "短语 主客体二元性"
+        ],
+        "usphone": "作者试图消除的思维方式，但未能解决与儿子的隔阂",
+        "ukphone": "401"
+    },
+    {
+        "name": "lee",
+        "trans": [
+            "n. 背风处"
+        ],
+        "usphone": "山丘岩石凹处的避风之地，植物得以生长的保护区",
+        "ukphone": "402"
+    },
+    {
+        "name": "sculptured",
+        "trans": [
+            "adj. 雕刻般的"
+        ],
+        "usphone": "被海风塑造成特殊形状的灌木，自然的艺术性",
+        "ukphone": "402"
+    },
+    {
+        "name": "subconsciousness",
+        "trans": [
+            "n. 潜意识"
+        ],
+        "usphone": "内陆人对海洋的深层心理渴望，意识深处的梦想",
+        "ukphone": "402"
+    },
+    {
+        "name": "luminous",
+        "trans": [
+            "adj. 发光的，明亮的"
+        ],
+        "usphone": "海边小镇特有的光线，带有怀旧感的朦胧阳光",
+        "ukphone": "403"
+    },
+    {
+        "name": "radiant",
+        "trans": [
+            "adj. 光芒四射的"
+        ],
+        "usphone": "小镇街道在特殊光线下显得明亮而怀旧",
+        "ukphone": "403"
+    },
+    {
+        "name": "belligerence",
+        "trans": [
+            "n. 好斗，敌对"
+        ],
+        "usphone": "Chris对父亲虚假友善态度的抵抗情绪",
+        "ukphone": "405"
+    },
+    {
+        "name": "contempt",
+        "trans": [
+            "n. 轻蔑，蔑视"
+        ],
+        "usphone": "Chris对父亲问题的轻蔑态度，表现出内心抵抗",
+        "ukphone": "405"
+    },
+    {
+        "name": "inevitability",
+        "trans": [
+            "n. 必然性，不可避免"
+        ],
+        "usphone": "事件发展的不可避免感，父子关系转折点的到来",
+        "ukphone": "405"
+    },
+    {
+        "name": "inhuman",
+        "trans": [
+            "adj. 非人的，冷酷的"
+        ],
+        "usphone": "Chris崩溃时发出的非人类声音，似远处警笛",
+        "ukphone": "406"
+    },
+    {
+        "name": "slow electric shock",
+        "trans": [
+            "短语 缓慢的电击"
+        ],
+        "usphone": "作者逐渐意识到真相时的心理冲击感",
+        "ukphone": "407"
+    },
+    {
+        "name": "wail",
+        "trans": [
+            "n. 哀号，哭泣声"
+        ],
+        "usphone": "Chris悲痛的哭喊声，表达长期压抑的情感",
+        "ukphone": "406"
+    },
+    {
+        "name": "glass door",
+        "trans": [
+            "短语 玻璃门"
+        ],
+        "usphone": "隔开Phaedrus与家人的象征物，父亲被医院隔离的记忆",
+        "ukphone": "407"
+    },
+    {
+        "name": "manzanita",
+        "trans": [
+            "n. 熊果丛"
+        ],
+        "usphone": "加州海岸特有的常绿灌木，旅程最后阶段的风景",
+        "ukphone": "409"
     },
     {
         "name": "drowsy",
         "trans": [
             "adj. 昏昏欲睡的"
-        ]
+        ],
+        "usphone": "温暖阳光下产生的困倦感，情感宣泄后的放松",
+        "ukphone": "409"
     },
     {
-        "name": "archeological",
+        "name": "enshroud",
         "trans": [
-            "adj. 考古学的"
-        ]
+            "v. 笼罩，包围"
+        ],
+        "usphone": "树木和灌木花朵的丰富香气环绕着父子",
+        "ukphone": "409"
     },
     {
-        "name": "coalescence",
+        "name": "pirouettes",
         "trans": [
-            "n. 融合，合并"
-        ]
+            "v. 旋转，翩翩起舞"
+        ],
+        "usphone": "摩托车在山路上的优美转弯，父子重新建立联系后的愉悦",
+        "ukphone": "409"
     },
     {
-        "name": "haunted",
+        "name": "waxen-leafed",
         "trans": [
-            "adj. 闹鬼的，萦绕的"
-        ]
+            "adj. 蜡质叶的"
+        ],
+        "usphone": "形容灌木叶子表面光滑如蜡的质地，加州沿海植物特征",
+        "ukphone": "409"
     },
     {
-        "name": "stage fright",
+        "name": "conk",
         "trans": [
-            "n. 怯场"
-        ]
+            "v. 敲击，打击"
+        ],
+        "usphone": "低垂树枝可能打到Chris头部的动作",
+        "ukphone": "410"
     },
     {
-        "name": "automaton",
+        "name": "elastic cables",
         "trans": [
-            "n. 机器人，自动装置"
-        ]
+            "短语 弹性绳索"
+        ],
+        "usphone": "摩托车上固定行李的松紧带",
+        "ukphone": "410"
     },
     {
-        "name": "euphemistically",
+        "name": "hairpins",
         "trans": [
-            "adv. 委婉地"
-        ]
+            "n. 发夹弯道"
+        ],
+        "usphone": "山路上急转弯的道路，摩托车需要小心驾驶",
+        "ukphone": "410"
     },
     {
-        "name": "outbreak",
+        "name": "drones on",
         "trans": [
-            "n. 爆发"
-        ]
+            "短语 单调地继续"
+        ],
+        "usphone": "引擎持续不断的嗡嗡声，忠实地工作",
+        "ukphone": "411"
     },
     {
-        "name": "prohibited",
+        "name": "penetrates",
         "trans": [
-            "adj. 禁止的"
-        ]
+            "v. 渗透，穿透"
+        ],
+        "usphone": "新感觉完全融入内心，而非停留在表面",
+        "ukphone": "411"
     },
     {
-        "name": "accreditation",
+        "name": "swelling",
         "trans": [
-            "n. 认证，认可"
-        ]
+            "v. 膨胀，增加"
+        ],
+        "usphone": "高速公路上车流逐渐增多的样子，回归文明世界",
+        "ukphone": "411"
     },
     {
-        "name": "vendetta",
+        "name": "afterword",
         "trans": [
-            "n. 世仇，报复"
-        ]
+            "n. 后记"
+        ],
+        "usphone": "作者对书出版十年后的反思和补充",
+        "ukphone": "413"
     },
     {
-        "name": "vocal",
+        "name": "kulturbärer",
         "trans": [
-            "adj. 直言不讳的"
-        ]
+            "n. 文化承载者"
+        ],
+        "usphone": "瑞典语词汇，指承载文化的书籍或人物",
+        "ukphone": "414"
     },
     {
-        "name": "partisan",
+        "name": "pulmonary artery",
         "trans": [
-            "n. 党派支持者"
-        ]
+            "短语 肺动脉"
+        ],
+        "usphone": "Chris被刺中后切断的血管，导致他死亡",
+        "ukphone": "415"
     },
     {
-        "name": "misconception",
+        "name": "pattern",
         "trans": [
-            "n. 误解"
-        ]
+            "n. 模式，图案"
+        ],
+        "usphone": "作者认识到Chris不只是肉体，而是更大的关系模式",
+        "ukphone": "416"
     },
     {
-        "name": "elaborated",
+        "name": "dissociation",
         "trans": [
-            "adj. 详尽阐述的"
-        ]
+            "n. 分离，游离"
+        ],
+        "usphone": "作者与妻子讨论堕胎时感受到的精神分离感",
+        "ukphone": "417"
     },
     {
-        "name": "desanctified",
+        "name": "ectoplasm",
         "trans": [
-            "adj. 被世俗化的"
-        ]
-    },
-    {
-        "name": "piety",
-        "trans": [
-            "n. 虔诚"
-        ]
-    },
-    {
-        "name": "materialism",
-        "trans": [
-            "n. 物质主义"
-        ]
-    },
-    {
-        "name": "excommunication",
-        "trans": [
-            "n. 开除教籍"
-        ]
-    },
-    {
-        "name": "nonprofit",
-        "trans": [
-            "adj. 非营利的"
-        ]
-    },
-    {
-        "name": "regenerated",
-        "trans": [
-            "adj. 再生的"
-        ]
-    },
-    {
-        "name": "cleavage",
-        "trans": [
-            "n. 分裂，划分"
-        ]
-    },
-    {
-        "name": "imponderable",
-        "trans": [
-            "adj. 难以估量的"
-        ]
-    },
-    {
-        "name": "parishioners",
-        "trans": [
-            "n. 教区居民"
-        ]
-    },
-    {
-        "name": "trustees",
-        "trans": [
-            "n. 理事，受托人"
-        ]
-    },
-    {
-        "name": "subordinate",
-        "trans": [
-            "adj. 从属的"
-        ]
-    },
-    {
-        "name": "censured",
-        "trans": [
-            "v. 责难，谴责"
-        ]
-    },
-    {
-        "name": "begrudging",
-        "trans": [
-            "adj. 不情愿的"
-        ]
-    },
-    {
-        "name": "fanatic",
-        "trans": [
-            "adj. 狂热的"
-        ]
-    },
-    {
-        "name": "discrepancy",
-        "trans": [
-            "n. 差异，不一致"
-        ]
-    },
-    {
-        "name": "militancy",
-        "trans": [
-            "n. 好战性，激进"
-        ]
+            "n. 外质，灵体物质"
+        ],
+        "usphone": "物质化的灵魂概念，作者认为原始文化对灵魂的理解更深刻",
+        "ukphone": "417"
     }
 ]
