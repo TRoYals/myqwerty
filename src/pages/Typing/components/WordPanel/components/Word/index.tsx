@@ -25,7 +25,7 @@ import {
 import type { Word } from '@/typings'
 import { CTRL, getUtcStringForMixpanel, useMixPanelWordLogUploader } from '@/utils'
 import { useSaveWordRecord } from '@/utils/db'
-import { getRomajiLength, isKana, getKanaRomaji } from '@/utils/kanaRomaji'
+import { getKanaRomaji, getRomajiLength, isKana } from '@/utils/kanaRomaji'
 import { useAtomValue } from 'jotai'
 import { useCallback, useContext, useEffect, useRef, useState } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
@@ -108,7 +108,7 @@ const parseNotation = (notation: string, romaji: string): ParsedNotation => {
       let j = 0
       let totalRomajiLength = 0
       let processedFurigana = ''
-      let romajiParts: string[] = []
+      const romajiParts: string[] = []
 
       // 首先计算完整的罗马字长度并处理拗音组合
       while (j < chars.length) {
