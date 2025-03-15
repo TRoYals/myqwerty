@@ -59,7 +59,7 @@ def process_dictionary(file_path):
                 else:
                     if current_range_start is not None:
                         missing_range_length = ukphone - current_range_start
-                        if missing_range_length > 10:
+                        if missing_range_length > 5:
                             missing_ranges.append((current_range_start, ukphone - 1))
                         current_range_start = None
             
@@ -92,7 +92,7 @@ def process_dictionary(file_path):
 if __name__ == "__main__":
     # 使用正确的路径格式
     default_file_path = r"C:\Users\tsugumi\Documents\vscode\myqwerty\public\dicts\0book_zenAndMotorbike.json"
-     
+
     # 检查命令行参数
     import sys
     if len(sys.argv) > 1:
