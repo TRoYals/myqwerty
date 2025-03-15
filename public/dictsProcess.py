@@ -73,7 +73,7 @@ def process_dictionary(file_path):
         
         # 保存处理后的结果
         try:
-            output_path = os.path.join(os.path.dirname(file_path), 'processed_dictionary.json')
+            output_path = os.path.join(os.path.dirname(file_path), '0book_zenAndMotorbike.json')
             with open(output_path, 'w', encoding='utf-8') as file:
                 json.dump(sorted_word_list, file, ensure_ascii=False, indent=4)
             print(f"处理后的文件已保存到: {output_path}")

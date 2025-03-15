@@ -632,6 +632,14 @@
         "ukphone": "112"
     },
     {
+        "name": "multitude",
+        "trans": [
+            "n. 大量，众多"
+        ],
+        "usphone": "大量的假设或可能性，在讨论科学方法局限性时使用",
+        "ukphone": "114"
+    },
+    {
         "name": "nihilistic",
         "trans": [
             "adj. 虚无主义的"
@@ -653,6 +661,14 @@
             "n. 偏差，反常"
         ],
         "usphone": "偏离正常或预期的状态，费德鲁斯思想被视为理性的偏差",
+        "ukphone": "115"
+    },
+    {
+        "name": "temporal",
+        "trans": [
+            "adj. 时间的，暂时的"
+        ],
+        "usphone": "与时间相关的，书中指科学真理不是永恒的而是随时间变化的性质",
         "ukphone": "115"
     },
     {
@@ -688,6 +704,38 @@
         "ukphone": "116"
     },
     {
+        "name": "dogma",
+        "trans": [
+            "n. 教条，教义"
+        ],
+        "usphone": "固定不变的信条或原则，书中用来描述固化的思维方式和理性体系",
+        "ukphone": "116"
+    },
+    {
+        "name": "diametrically",
+        "trans": [
+            "adv. 直径上的，完全相反的"
+        ],
+        "usphone": "完全相反的，用于描述经典与浪漫理解方式的对立",
+        "ukphone": "116"
+    },
+    {
+        "name": "chaos",
+        "trans": [
+            "n. 混乱，无序"
+        ],
+        "usphone": "科学和技术所导致的社会混乱与价值观不确定性",
+        "ukphone": "116"
+    },
+    {
+        "name": "genetic",
+        "trans": [
+            "adj. 基因的，遗传的"
+        ],
+        "usphone": "理性本身的内在缺陷，像基因缺陷一样根植于理性的结构中",
+        "ukphone": "116"
+    },
+    {
         "name": "amalgam",
         "trans": [
             "n. 混合物，合金"
@@ -702,6 +750,22 @@
         ],
         "usphone": "两种力量或观点之间的冲突，如古典与浪漫观点的对立",
         "ukphone": "117"
+    },
+    {
+        "name": "profoundly",
+        "trans": [
+            "adv. 深刻地，极度地"
+        ],
+        "usphone": "深刻地影响或改变某事物，形容思想或经历的深度",
+        "ukphone": "117"
+    },
+    {
+        "name": "irreconcilability",
+        "trans": [
+            "n. 不可调和性"
+        ],
+        "usphone": "两种理解方式（经典与浪漫）无法相互融合的特性",
+        "ukphone": "118"
     },
     {
         "name": "axioms",
