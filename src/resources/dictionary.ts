@@ -603,7 +603,7 @@ const internationalExam: DictionaryResource[] = [
     category: '国际考试',
     tags: ['Books'],
     url: '/dicts/0book_zenAndMotorbike.json',
-    length: 1871,
+    length: 400,
     language: 'en',
     languageCategory: 'en',
   },
