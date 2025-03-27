@@ -2160,6 +2160,14 @@
         "ukphone": "297"
     },
     {
+        "name": "Rubáiyat",
+        "trans": [
+            "n. 鲁拜集（波斯诗集）"
+        ],
+        "usphone": "奥马尔·哈亚姆的著名诗集，作者在旅途中不断想起其中诗句",
+        "ukphone": "301"
+    },
+    {
         "name": "gumption",
         "trans": [
             "n. 进取心，勇气"
@@ -2192,6 +2200,14 @@
         "ukphone": "305"
     },
     {
+        "name": "disassembly",
+        "trans": [
+            "n. 拆卸，分解"
+        ],
+        "usphone": "将摩托车拆开以进行维修的过程，需要记录顺序",
+        "ukphone": "305"
+    },
+    {
         "name": "reassembly",
         "trans": [
             "n. 重新组装"
@@ -2208,6 +2224,46 @@
         "ukphone": "307"
     },
     {
+        "name": "cognitive",
+        "trans": [
+            "adj. 认知的，感知的"
+        ],
+        "usphone": "与思维和知识处理相关的心理过程，书中提到的一类gumption陷阱",
+        "ukphone": "309"
+    },
+    {
+        "name": "affective",
+        "trans": [
+            "adj. 情感的，感情的"
+        ],
+        "usphone": "与情绪和感受相关的心理过程，影响我们如何评价事物",
+        "ukphone": "309"
+    },
+    {
+        "name": "psychomotor",
+        "trans": [
+            "adj. 心理运动的"
+        ],
+        "usphone": "涉及身体动作和心理过程的结合，如使用工具的技能",
+        "ukphone": "309"
+    },
+    {
+        "name": "value rigidity",
+        "trans": [
+            "n. 价值僵化"
+        ],
+        "usphone": "无法因新信息而改变自己价值观的状态，阻碍问题解决",
+        "ukphone": "310"
+    },
+    {
+        "name": "rigidity",
+        "trans": [
+            "n. 僵化，刚性"
+        ],
+        "usphone": "无法改变自己价值观的状态，阻碍问题解决的心理障碍",
+        "ukphone": "310"
+    },
+    {
         "name": "fussiness",
         "trans": [
             "n. 过分挑剔，繁琐"
@@ -2222,6 +2278,14 @@
         ],
         "usphone": "以自我为中心的态度，阻碍技术工作的心理障碍",
         "ukphone": "315"
+    },
+    {
+        "name": "impatience",
+        "trans": [
+            "n. 不耐烦，急躁"
+        ],
+        "usphone": "低估工作所需时间导致的情绪状态，会引发更多错误",
+        "ukphone": "316"
     },
     {
         "name": "indefinite",
@@ -2248,6 +2312,38 @@
         "ukphone": "320"
     },
     {
+        "name": "diagnostics",
+        "trans": [
+            "n. 诊断学，故障诊断"
+        ],
+        "usphone": "确定摩托车问题原因的系统方法和技术",
+        "ukphone": "320"
+    },
+    {
+        "name": "hypothesis",
+        "trans": [
+            "n. 假设，假说"
+        ],
+        "usphone": "对摩托车问题原因的初步猜测，需要通过测试验证",
+        "ukphone": "320"
+    },
+    {
+        "name": "indeterminate",
+        "trans": [
+            "adj. 不确定的，模糊的"
+        ],
+        "usphone": "既不是 是 也不是 否 的状态，需要重新思考问题",
+        "ukphone": "320"
+    },
+    {
+        "name": "insensitivity",
+        "trans": [
+            "n. 麻木，不敏感"
+        ],
+        "usphone": "缺乏对材料特性的感知，可能导致对精密零件的损坏",
+        "ukphone": "322"
+    },
+    {
         "name": "kinesthesia",
         "trans": [
             "n. 动觉，运动感"
@@ -2269,6 +2365,14 @@
             "adj. 动觉的"
         ],
         "usphone": "与身体运动感知相关的，优秀技工对材料弹性的内在感觉",
+        "ukphone": "323"
+    },
+    {
+        "name": "mechanic's feel",
+        "trans": [
+            "n. 机械感觉"
+        ],
+        "usphone": "对材料特性的直觉理解，知道何时螺母已拧紧而不会过度用力",
         "ukphone": "323"
     },
     {
